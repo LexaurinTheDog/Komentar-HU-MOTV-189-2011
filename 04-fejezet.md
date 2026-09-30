@@ -16,7 +16,7 @@ A § a helyi önkormányzatok gazdasági alapjairól szóló fejezetet egy utal�
 
 **A rendelkezés szövege:**
 
-> Az Országgyűlés törvényben szabályozza a helyi önkormányzatok jogállását, feladat- és hatásköreit, a kötelezően ellátandó feladatait, kötelező szervtípusait, működésének garanciáit, anyagi eszközeit és gazdálkodásának alapvető szabályait.
+> (1) Az Országgyűlés törvényben szabályozza a helyi önkormányzatok jogállását, feladat- és hatásköreit, a kötelezően ellátandó feladatait, kötelező szervtípusait, működésének garanciáit, anyagi eszközeit és gazdálkodásának alapvető szabályait.
 >
 > (2) Az Országgyűlés az alaptörvény-ellenesen működő képviselő-testület feloszlatásáról a Kormány javaslatának az Országgyűléshez való benyújtását követő soron következő ülésén határoz. E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat polgármesterét. A polgármester jogosult a képviselő-testület feloszlatással kapcsolatos álláspontját az Országgyűlés döntésének meghozatala előtt ismertetni.⁽²²¹⁾
 >
@@ -112,7 +112,7 @@ A § a helyi önkormányzatok törvényességi felügyeletéért felelős minisz
 
 **A rendelkezés szövege:**
 
-> Az egészségügyért felelős miniszter feladatkörében eljárva a járóbeteg-szakellátás biztosítása érdekében jogosult kezelni az e bekezdés szerinti adatokat és adatszolgáltatást kérhet a települési önkormányzatoktól az általuk ellátott járóbeteg-szakellátási feladathoz kapcsolódóan
+> (1) Az egészségügyért felelős miniszter feladatkörében eljárva a járóbeteg-szakellátás biztosítása érdekében jogosult kezelni az e bekezdés szerinti adatokat és adatszolgáltatást kérhet a települési önkormányzatoktól az általuk ellátott járóbeteg-szakellátási feladathoz kapcsolódóan
 >
 > a) a feladatellátás módjáról,
 >
@@ -158,7 +158,7 @@ A § az „ágazati miniszterek” (tehát nem kifejezetten az önkormányzati �
 
 **A rendelkezés szövege:**
 
-> Az országos önkormányzati érdekszövetségek jogalkotási feladatokra, intézkedések megtételére vonatkozó javaslatot tehetnek, konzultációt folytathatnak a Kormánnyal a helyi önkormányzati rendszert, valamint a helyi önkormányzatok által ellátott közszolgáltatásokat érintő stratégiai kérdésekről és a központi költségvetés önkormányzatokat érintő kérdéseiről.
+> (1) Az országos önkormányzati érdekszövetségek jogalkotási feladatokra, intézkedések megtételére vonatkozó javaslatot tehetnek, konzultációt folytathatnak a Kormánnyal a helyi önkormányzati rendszert, valamint a helyi önkormányzatok által ellátott közszolgáltatásokat érintő stratégiai kérdésekről és a központi költségvetés önkormányzatokat érintő kérdéseiről.
 >
 > (2) Az (1) bekezdés alkalmazásában azokat a szervezeteket kell országos önkormányzati érdekképviseleti szervezeteknek tekinteni, amelyek közül
 >
@@ -188,7 +188,7 @@ A § az országos önkormányzati érdekképviseleti (érdekszövetségi) rendsz
 
 **A rendelkezés szövege:**
 
-> A kormányhivatal a helyi önkormányzatok törvényességi felügyelete körében az Alaptörvényben meghatározott feladat- és hatáskörökön túl:
+> (1) A kormányhivatal a helyi önkormányzatok törvényességi felügyelete körében az Alaptörvényben meghatározott feladat- és hatáskörökön túl:
 >
 > a) törvényességi felhívással élhet;
 >
@@ -270,7 +270,7 @@ A § nyitja meg a törvényességi felügyelet részletes szabályozását (a sz
 
 **A rendelkezés szövege:**
 
-> A kormányhivatal a helyi önkormányzat feladat- és hatáskörébe tartozóan az érintettől információt, adatot kérhet, konzultációt kezdeményezhet, amelyeknek az érintett a megadott határidőn belül köteles eleget tenni.
+> (1) A kormányhivatal a helyi önkormányzat feladat- és hatáskörébe tartozóan az érintettől információt, adatot kérhet, konzultációt kezdeményezhet, amelyeknek az érintett a megadott határidőn belül köteles eleget tenni.
 >
 > (2)⁽²⁴³⁾ A kormányhivatal javaslattal élhet az érintett működésére, szervezetére, döntéshozatali eljárására vonatkozóan. A javaslatot a helyi önkormányzat képviselő-testülete, illetve a társulási tanács köteles megtárgyalni és arról döntést hozni. A javaslat elutasításának indokát a helyi önkormányzat, illetve a társulási tanács köteles a kormányhivatallal ismertetni.
 >
@@ -292,7 +292,7 @@ A § – az előtte szereplő alcím szerint „A kormányhivatal információk�
 
 **A rendelkezés szövege:**
 
-> ⁽²⁴⁵⁾ Ha a kormányhivatal jogszabálysértést észlel, a törvényességi felügyelet körében legalább harminc napos határidő tűzésével felhívja az érintettet annak megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedéséről vagy egyet nem értéséről a kormányhivatalt írásban tájékoztatni.
+> (1)⁽²⁴⁵⁾ Ha a kormányhivatal jogszabálysértést észlel, a törvényességi felügyelet körében legalább harminc napos határidő tűzésével felhívja az érintettet annak megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedéséről vagy egyet nem értéséről a kormányhivatalt írásban tájékoztatni.
 >
 > (2)⁽²⁴⁶⁾ A törvényességi felhívás eredménytelensége esetén a kormányhivatal a törvényességi felügyeleti eljárás egyéb eszközeinek alkalmazásáról mérlegelési jogkörben dönt.
 
@@ -310,7 +310,7 @@ A § – „A törvényességi felhívás” alcím alatt – a törvényességi
 
 **A rendelkezés szövege:**
 
-> A kormányhivatal kezdeményezi a polgármesternél a képviselő-testület, illetve a társulási tanács elnökénél a társulási tanács ülésének összehívását, ha törvényességi kérdések megtárgyalása a helyi önkormányzat, illetve a társulás törvényes működésének biztosítása érdekében indokolt.
+> (1) A kormányhivatal kezdeményezi a polgármesternél a képviselő-testület, illetve a társulási tanács elnökénél a társulási tanács ülésének összehívását, ha törvényességi kérdések megtárgyalása a helyi önkormányzat, illetve a társulás törvényes működésének biztosítása érdekében indokolt.
 >
 > (2) Ha a polgármester, illetve a társulási tanács elnöke a kormányhivatal (1) bekezdés szerinti javaslatának, vagy a polgármester a kormányhivatal 44. § szerinti indítványának 15 napon belül nem tesz eleget, a képviselő-testület, illetve a társulási tanács ülését a kormányhivatal hívja össze. Az ülés összehívása során a kormányhivatal eltérhet a helyi önkormányzat, illetve a társulás szervezeti és működési szabályzatában meghatározott szabályoktól.
 
@@ -328,7 +328,7 @@ A § – „A képviselő-testület és a társulási tanács ülésének össze
 
 **A rendelkezés szövege:**
 
-> ⁽²⁵⁰⁾ Ha a kormányhivatal az önkormányzati rendeletet az Alaptörvénnyel ellentétesnek találja, – a törvényességi felügyelet 132. § (1) bekezdés a) és b) pontjában meghatározott eszközeinek eredménytelen alkalmazását követően – az önkormányzati rendelet alkotmánybírósági felülvizsgálatának Kormány általi kezdeményezése iránti javaslatát az Alkotmánybíróságról szóló törvényben meghatározott formai és tartalmi követelményeknek megfelelő indítvány tervezetének megküldésével terjeszti elő a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternél. A helyi önkormányzatok törvényességi felügyeletéért felelős miniszter a javaslat megvizsgálását követően – a feltételek fennállása esetén – kezdeményezi a Kormánynál az önkormányzati rendelet Alaptörvénnyel való összhangja felülvizsgálatának indítványozását. A kormányhivatal az indítvány tervezetét a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek történő megküldésével egyidejűleg megküldi az érintett helyi önkormányzatnak is.
+> (1)⁽²⁵⁰⁾ Ha a kormányhivatal az önkormányzati rendeletet az Alaptörvénnyel ellentétesnek találja, – a törvényességi felügyelet 132. § (1) bekezdés a) és b) pontjában meghatározott eszközeinek eredménytelen alkalmazását követően – az önkormányzati rendelet alkotmánybírósági felülvizsgálatának Kormány általi kezdeményezése iránti javaslatát az Alkotmánybíróságról szóló törvényben meghatározott formai és tartalmi követelményeknek megfelelő indítvány tervezetének megküldésével terjeszti elő a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternél. A helyi önkormányzatok törvényességi felügyeletéért felelős miniszter a javaslat megvizsgálását követően – a feltételek fennállása esetén – kezdeményezi a Kormánynál az önkormányzati rendelet Alaptörvénnyel való összhangja felülvizsgálatának indítványozását. A kormányhivatal az indítvány tervezetét a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek történő megküldésével egyidejűleg megküldi az érintett helyi önkormányzatnak is.
 >
 > (2)⁽²⁵¹⁾ A kormányhivatal indítványozhatja az önkormányzati rendelet más jogszabályba ütközésének vizsgálatára irányuló eljárást.
 >
@@ -356,7 +356,7 @@ A § – „Önkormányzati rendelet Alaptörvénybe ütközése esetére alkotm
 
 **A rendelkezés szövege:**
 
-> A kormányhivatal indítványozhatja a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztásának megállapítását.
+> (1) A kormányhivatal indítványozhatja a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztásának megállapítását.
 >
 > (2) Ha a helyi önkormányzat határidőn belül nem tesz eleget jogalkotási kötelezettségének, a kormányhivatal a határidő leteltét követő harminc napon belül indítványozhatja önkormányzati rendelet vagy normatív határozat megalkotására való felhatalmazását.
 
@@ -374,7 +374,7 @@ A § – „A helyi önkormányzati jogalkotási kötelezettség elmulasztásán
 
 **A rendelkezés szövege:**
 
-> A kormányhivatal vezetője a rendeletet a helyi önkormányzat nevében, az önkormányzati rendeletre irányadó szabályok szerint alkotja meg azzal, hogy a rendeletet a kormányhivatal vezetője írja alá és a Magyar Közlönyben kell kihirdetni.
+> (1) A kormányhivatal vezetője a rendeletet a helyi önkormányzat nevében, az önkormányzati rendeletre irányadó szabályok szerint alkotja meg azzal, hogy a rendeletet a kormányhivatal vezetője írja alá és a Magyar Közlönyben kell kihirdetni.
 >
 > (2) A kihirdetett rendeletet a kormányhivatal megküldi a helyi önkormányzatnak. A jegyző gondoskodik a kihirdetett rendeletnek a szervezeti és működési szabályzatban az önkormányzati rendeletek kihirdetésére meghatározott szabályokkal azonos módon történő közzétételéről.
 >
@@ -406,7 +406,7 @@ A § – „Az önkormányzati határozat közigazgatási ügyben eljáró bír�
 
 **A rendelkezés szövege:**
 
-> A kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen leteltétől számított tizenöt napon belül indíthat mulasztási pert a helyi önkormányzat törvényen alapuló
+> (1) A kormányhivatal a helyi önkormányzat tájékoztatásának kézhezvételétől vagy a tájékoztatás adására nyitva álló határidő eredménytelen leteltétől számított tizenöt napon belül indíthat mulasztási pert a helyi önkormányzat törvényen alapuló
 >
 > a) határozathozatali kötelezettsége elmulasztásának megállapítására, vagy
 >
@@ -428,7 +428,7 @@ A § – „Mulasztási per indítása” alcím alatt, a 2019: CXXVII. törvén
 
 **A rendelkezés szövege:**
 
-> ⁽²⁶⁰⁾ A kormányhivatal a helyi önkormányzattal vagy a társulással szemben törvényességi felügyeleti bírságot állapíthat meg,
+> (1)⁽²⁶⁰⁾ A kormányhivatal a helyi önkormányzattal vagy a társulással szemben törvényességi felügyeleti bírságot állapíthat meg,
 >
 > a)⁽²⁶¹⁾ ha a jegyző a kormányhivatal felhívása ellenére a megadott határidőn belül nem tesz eleget a jegyzőkönyv, valamint a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke és a jegyző képviselő-testület által átruházott hatáskörében meghozott – hatósági döntésnek nem minősülő – döntései megküldési kötelezettségének;
 >
@@ -508,7 +508,7 @@ A szakasz szövege nem hatályos. A lábjegyzet szerint a bírósági eljárás 
 
 **A rendelkezés szövege:**
 
-> A képviselő-testület a hatáskörébe tartozó hatósági ügyben (a továbbiakban: önkormányzati hatósági ügy) a hatáskörét önkormányzati rendeletben a polgármesterre, a bizottságára, a társulására vagy a jegyzőre ruházhatja át.
+> (1) A képviselő-testület a hatáskörébe tartozó hatósági ügyben (a továbbiakban: önkormányzati hatósági ügy) a hatáskörét önkormányzati rendeletben a polgármesterre, a bizottságára, a társulására vagy a jegyzőre ruházhatja át.
 >
 > (2) Ha a képviselő-testület önkormányzati hatósági ügyben a hatáskörét átruházza, elbírálja a fellebbezést, valamint gyakorolja a másodfokú hatóság és – a (3) bekezdés szerinti kivétellel – a felügyeleti szerv feladat- és hatáskörét.
 >
@@ -534,7 +534,7 @@ A § egy rugalmassági, kiegészítő szabályozási felhatalmazást tartalmazó
 
 **A rendelkezés szövege:**
 
-> A helyi önkormányzat képviselő-testülete rendeletében meghatározott kötelezettségek elmulasztása esetére közigazgatási szankciót állapíthat meg.
+> (1) A helyi önkormányzat képviselő-testülete rendeletében meghatározott kötelezettségek elmulasztása esetére közigazgatási szankciót állapíthat meg.
 >
 > (2) A bírság felső határát az önkormányzati rendeletben a jogsértés jellegével arányban kell megállapítani.
 >
@@ -554,7 +554,7 @@ A 2017: CXXXIV. törvénnyel beiktatott § a helyi önkormányzat közigazgatás
 
 **A rendelkezés szövege:**
 
-> Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:
+> (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:
 >
 > a) a területszervezési eljárás szabályait;⁽²⁷³⁾
 >
@@ -644,7 +644,7 @@ A § – a „ZÁRÓ RENDELKEZÉSEK” cím és a „Felhatalmazó rendelkezés�
 
 **A rendelkezés szövege:**
 
-> ⁽²⁹⁰⁾ E törvény a (2)–(5) bekezdésben foglalt kivétellel 2012. január 1-jén lép hatályba.
+> (1)⁽²⁹⁰⁾ E törvény a (2)–(5) bekezdésben foglalt kivétellel 2012. január 1-jén lép hatályba.
 >
 > (2) Az 51. § (4) bekezdés és a 143. § (4) bekezdés e) pontja 2012. április 15-én lép hatályba.
 >
@@ -676,7 +676,7 @@ A § – „Hatályba léptető rendelkezések” cím alatt – a Mötv. lépcs
 
 **A rendelkezés szövege:**
 
-> ⁽²⁹⁷⁾ Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, a 146/H. §, a 146/I. §, a 146/J. §, 146/L. §, 146/M. §, 146/N. §, 146/O. §, a 147. §, valamint a 2. és a 3. melléklet az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
+> (1)⁽²⁹⁷⁾ Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, a 146/H. §, a 146/I. §, a 146/J. §, 146/L. §, 146/M. §, 146/N. §, 146/O. §, a 147. §, valamint a 2. és a 3. melléklet az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 >
 > (2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.
 >
@@ -698,7 +698,7 @@ A § – „Az Alaptörvény sarkalatosságra vonatkozó követelményének val�
 
 **A rendelkezés szövege:**
 
-> ⁽²⁹⁹⁾
+> (1)⁽²⁹⁹⁾
 >
 > (2)⁽³⁰⁰⁾
 >
@@ -728,7 +728,7 @@ A 2014: XCIII. törvénnyel (újonnan) beiktatott § egy szűk körű időbeli h
 
 **A rendelkezés szövege:**
 
-> Az önkormányzati ASP rendszerhez való csatlakozás 114. § (2) bekezdése szerinti végső határideje nem lehet korábbi, mint a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2016. évi LIV. törvény felhatalmazása alapján megalkotott, a csatlakozás végső határidejét szabályozó kormányrendelet hatálybalépését követő 90. nap.
+> (1) Az önkormányzati ASP rendszerhez való csatlakozás 114. § (2) bekezdése szerinti végső határideje nem lehet korábbi, mint a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2016. évi LIV. törvény felhatalmazása alapján megalkotott, a csatlakozás végső határidejét szabályozó kormányrendelet hatálybalépését követő 90. nap.
 >
 > (2) Új szerződést a 114. § (2) bekezdése szerinti szakrendszerek által támogatott feladatok informatikai támogatására az önkormányzat csak az ASP rendszerhez történő csatlakozás időpontjáig terjedő időtartamra köthet, kivéve, ha a csatlakozás módját kormányrendelet úgy határozza meg, hogy az a szerződés hatályban tartása mellett is lehetséges.
 >
@@ -776,7 +776,7 @@ A szakasz szövege nem hatályos. A lábjegyzet szerint a § tartalmát a 2012: 
 
 **A rendelkezés szövege:**
 
-> A polgármesteri hivatal, vagy körjegyzőség a 146/B. § (1) bekezdése, (2) bekezdés a) pontja, valamint a 146/D. § alapján történő megszűnése olyan átszervezésnek minősül, amely alapján a jegyző (körjegyző), valamint a közszolgálati jogviszonyban állók jogviszonya a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 63. § (1) bekezdés c) pontja alapján felmentéssel szüntethető meg.
+> (1) A polgármesteri hivatal, vagy körjegyzőség a 146/B. § (1) bekezdése, (2) bekezdés a) pontja, valamint a 146/D. § alapján történő megszűnése olyan átszervezésnek minősül, amely alapján a jegyző (körjegyző), valamint a közszolgálati jogviszonyban állók jogviszonya a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 63. § (1) bekezdés c) pontja alapján felmentéssel szüntethető meg.
 >
 > (2) Ha a polgármesteri hivatal, körjegyzőség megszűnésének időpontjában a jegyző, körjegyző felmentési védelem alatt áll, akkor a jegyző, körjegyző jogviszonyának megszüntetéséről szóló intézkedést – eltérő megállapodás hiányában – a megszűnt polgármesteri hivatalt, körjegyzőséget alkotó önkormányzatok polgármesterei legkorábban a felmentési védelem lejártát követő napon hozhatják meg. E rendelkezéseket a közszolgálati jogviszonyban állókra megfelelően alkalmazni kell azzal az eltéréssel, hogy – eltérő megállapodás hiányában – a munkáltatói intézkedést az érintett jegyző hozza meg.
 
@@ -830,7 +830,7 @@ A 2020: VII. törvénnyel beiktatott § egy másik visszaható hatályú alkalma
 
 **A rendelkezés szövege:**
 
-> Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény és egyéb törvények módosításáról szóló 2022. évi I. törvénnyel (a továbbiakban: Módtv2.) megyei jogú várossá nyilvánított település törvényben meghatározott megyei jogú városi jogállásából származó feladatait a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választását követően, a megyei jogú város közgyűlésének alakuló ülésétől látja el.
+> (1) Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény és egyéb törvények módosításáról szóló 2022. évi I. törvénnyel (a továbbiakban: Módtv2.) megyei jogú várossá nyilvánított település törvényben meghatározott megyei jogú városi jogállásából származó feladatait a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választását követően, a megyei jogú város közgyűlésének alakuló ülésétől látja el.
 >
 > (2)⁽³¹²⁾ A Módtv2.-vel megyei jogú várossá nyilvánítás – a törvény szerinti feladatok ellátásának a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásáig való változatlansága miatt – nem érinti az érintett település képviselő-testületét és a vármegye közgyűlését, arra tekintettel időközi önkormányzati választás kitűzése nem szükséges.
 
@@ -846,7 +846,7 @@ A 2022: I. törvénnyel beiktatott, a (2) bekezdésében a 2022: XXII. törvénn
 
 **A rendelkezés szövege:**
 
-> E §-t a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választására kell alkalmazni.
+> (1) E §-t a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választására kell alkalmazni.
 >
 > (2) Ahol e törvény a választáshoz, a választás eredményének jogerős megállapításához, illetve a választás napjához jogkövetkezményt fűz, ott a jogkövetkezmény alkalmazásának kezdő időpontjaként 2024. október 1. napját kell érteni.
 >
@@ -864,7 +864,7 @@ A 2022: XXII. törvénnyel beiktatott § a 2024. évi általános önkormányzat
 
 **A rendelkezés szövege:**
 
-> ⁽³¹⁵⁾ E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel (a továbbiakban: Módtv1.) megállapított 111. § (4a)–(4k) bekezdését első alkalommal a 2024. évi önkormányzati költségvetési rendelet megalkotása, illetve módosítása során kell alkalmazni.
+> (1)⁽³¹⁵⁾ E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel (a továbbiakban: Módtv1.) megállapított 111. § (4a)–(4k) bekezdését első alkalommal a 2024. évi önkormányzati költségvetési rendelet megalkotása, illetve módosítása során kell alkalmazni.
 >
 > (2) A Módtv1.-gyel megállapított 111. § (4a)–(4k) bekezdését akkor is alkalmazni kell, ha a képviselő-testület a Módtv1. hatályba lépését⁽³¹⁶⁾ megelőzően elfogadott 2024. évi költségvetési rendeletét az államháztartásról szóló 2011. évi CXCV. törvény 25. § (1) bekezdés szerinti határidőig az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2a) és (2b) bekezdés szerinti tartalommal nem módosítja.
 
@@ -882,7 +882,7 @@ A 2023. évi CXIV. törvénnyel beiktatott, a (1) bekezdésében a 2024. évi XV
 
 **A rendelkezés szövege:**
 
-> A 2024. június 9. és 2024. október 1. közötti időszakban a települési önkormányzat képviselő-testületének, a fővárosi, vármegyei közgyűlésnek (a továbbiakban együtt: képviselő-testület) feladat- és hatásköreit a polgármester, főpolgármester, vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) gyakorolja, ha
+> (1) A 2024. június 9. és 2024. október 1. közötti időszakban a települési önkormányzat képviselő-testületének, a fővárosi, vármegyei közgyűlésnek (a továbbiakban együtt: képviselő-testület) feladat- és hatásköreit a polgármester, főpolgármester, vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) gyakorolja, ha
 >
 > a) a megválasztott önkormányzati képviselők száma a képviselő-testület működéséhez szükséges létszám alá csökken, vagy
 >
@@ -966,7 +966,7 @@ A 2026. évi XVIII. törvénnyel beiktatott § – amely az európai uniós forr
 
 **A rendelkezés szövege:**
 
-> E törvénynek az igazságosabb és arányosabb önkormányzati választások érdekében egyes választási tárgyú törvények módosításáról szóló 2023. évi XCV. törvénnyel (a továbbiakban: Módtv3.) megállapított rendelkezéseit 2024. október 1-jét követően kell először alkalmazni.
+> (1) E törvénynek az igazságosabb és arányosabb önkormányzati választások érdekében egyes választási tárgyú törvények módosításáról szóló 2023. évi XCV. törvénnyel (a továbbiakban: Módtv3.) megállapított rendelkezéseit 2024. október 1-jét követően kell először alkalmazni.
 >
 > (2) A Módtv3.-mal hatályon kívül helyezett 31/A. §-t, 47. § (3) és (4) bekezdését, valamint 70/A. §-t 2024. október 1-jéig kell alkalmazni.
 
@@ -1078,7 +1078,7 @@ A § – amelynek tartalma a „Hatályon kívül helyező rendelkezések” cí
 
 **A rendelkezés szövege:**
 
-> ⁽³³¹⁾
+> (1)⁽³³¹⁾
 >
 > (2)⁽³³²⁾
 >

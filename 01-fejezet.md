@@ -28,7 +28,7 @@ A szakasz a törvény értelmező rendelkezéseinek nyitó eleme, amely a Mötv.
 
 **A rendelkezés szövege:**
 
-> ⁽³⁾ A helyi önkormányzás a település, valamint a vármegye választópolgárai közösségének joga, melynek során érvényre jut az állampolgári felelősségérzet, kibontakozik az alkotó együttműködés a helyi közösségen belül.
+> (1)⁽³⁾ A helyi önkormányzás a település, valamint a vármegye választópolgárai közösségének joga, melynek során érvényre jut az állampolgári felelősségérzet, kibontakozik az alkotó együttműködés a helyi közösségen belül.
 >
 > (2) A helyi önkormányzás a helyi közügyekben demokratikus módon, széles körű nyilvánosságot teremtve kifejezi és megvalósítja a helyi közakaratot.
 
@@ -42,7 +42,7 @@ A szakasz a helyi önkormányzás alkotmányos alapelvét fogalmazza meg, összh
 
 **A rendelkezés szövege:**
 
-> ⁽⁴⁾ A helyi önkormányzás joga a települések (települési önkormányzatok) és a vármegyék (területi önkormányzatok) választópolgárainak közösségét illeti meg.
+> (1)⁽⁴⁾ A helyi önkormányzás joga a települések (települési önkormányzatok) és a vármegyék (területi önkormányzatok) választópolgárainak közösségét illeti meg.
 >
 > (2) Települési önkormányzatok a községekben, a városokban, járásszékhely városokban, megyei jogú városokban és a fővárosi kerületekben működnek.
 >
@@ -96,7 +96,7 @@ A szakasz a helyi önkormányzat feladatellátása során követendő általáno
 
 **A rendelkezés szövege:**
 
-> Az Alaptörvény 32. cikk (1) bekezdés j) pontja szerint megkeresett szerv a helyi önkormányzat megkeresésére harminc napon belül érdemben köteles válaszolni.
+> (1) Az Alaptörvény 32. cikk (1) bekezdés j) pontja szerint megkeresett szerv a helyi önkormányzat megkeresésére harminc napon belül érdemben köteles válaszolni.
 >
 > (1a)⁽⁵⁾ Ha az (1) bekezdés szerinti megkeresés címzettje az Országgyűlés, a harmincnapos határidőt nem kell alkalmazni.
 >
@@ -112,7 +112,7 @@ A szakasz a helyi önkormányzatok Alaptörvény szerinti megkeresési jogának 
 
 **A rendelkezés szövege:**
 
-> A helyi közösség tagjai a helyi önkormányzás alanyaként kötelesek:
+> (1) A helyi közösség tagjai a helyi önkormányzás alanyaként kötelesek:
 >
 > a) öngondoskodással enyhíteni a közösségre háruló terheket, képességeik és lehetőségeik szerint hozzájárulni a közösségi feladatok ellátásához;
 >
@@ -142,7 +142,7 @@ A szakasz a törvényben meghatározott jogok gyakorlásának alapkövetelmény�
 
 **A rendelkezés szövege:**
 
-> A helyi önkormányzat ellátja a törvényben meghatározott kötelező és az általa önként vállalt feladat- és hatásköröket.
+> (1) A helyi önkormányzat ellátja a törvényben meghatározott kötelező és az általa önként vállalt feladat- és hatásköröket.
 >
 > (2) A helyi önkormányzat – a helyi képviselő-testület vagy a helyi népszavazás döntésével – önként vállalhatja minden olyan helyi közügy önálló megoldását, amelyet jogszabály nem utal más szerv kizárólagos hatáskörébe. Az önként vállalt helyi közügyekben az önkormányzat mindent megtehet, ami jogszabállyal nem ellentétes. Az önként vállalt helyi közügyek megoldása nem veszélyeztetheti a törvény által kötelezően előírt önkormányzati feladat- és hatáskörök ellátását, finanszírozása a saját bevételek, vagy az erre a célra biztosított külön források terhére lehetséges.
 >
@@ -158,7 +158,7 @@ A szakasz a helyi önkormányzat feladat- és hatásköreinek két alapkategóri
 
 **A rendelkezés szövege:**
 
-> ⁽⁷⁾ A községnek, a városnak, a járásszékhely városnak, a megyei jogú városnak, a fővárosnak és kerületeinek, valamint a vármegyei önkormányzatnak egymástól eltérő feladat- és hatáskörei lehetnek.
+> (1)⁽⁷⁾ A községnek, a városnak, a járásszékhely városnak, a megyei jogú városnak, a fővárosnak és kerületeinek, valamint a vármegyei önkormányzatnak egymástól eltérő feladat- és hatáskörei lehetnek.
 >
 > (2) Törvény a kötelező feladat- és hatáskör megállapításánál differenciálni köteles, figyelembe véve a feladat- és hatáskör jellegét, a helyi önkormányzatok eltérő adottságait, különösen
 >
@@ -180,7 +180,7 @@ A szakasz a differenciált feladat- és hatáskör-telepítés elvét rögzíti,
 
 **A rendelkezés szövege:**
 
-> A nagyobb gazdasági teljesítőképességű, lakosságszámú települési önkormányzat számára előírt kötelező feladat- és hatáskör ellátását – annak egyetértésével – más települési önkormányzat vagy társulása önként akkor vállalhatja, ha azt
+> (1) A nagyobb gazdasági teljesítőképességű, lakosságszámú települési önkormányzat számára előírt kötelező feladat- és hatáskör ellátását – annak egyetértésével – más települési önkormányzat vagy társulása önként akkor vállalhatja, ha azt
 >
 > a) a lakossági igények indokolják;
 >
@@ -202,7 +202,7 @@ A szakasz lehetőséget teremt arra, hogy a nagyobb gazdasági teljesítőképes
 
 **A rendelkezés szövege:**
 
-> ⁽⁸⁾ A helyi közügyek, valamint a helyben biztosítható közfeladatok körében ellátandó helyi önkormányzati feladatok különösen:
+> (1)⁽⁸⁾ A helyi közügyek, valamint a helyben biztosítható közfeladatok körében ellátandó helyi önkormányzati feladatok különösen:
 >
 > 1. településfejlesztés, településrendezés;
 >
@@ -272,7 +272,7 @@ A szakasz a helyi közügyek, valamint a helyben biztosítható közfeladatok k�
 
 **A rendelkezés szövege:**
 
-> A 13. § (1) bekezdésében meghatározott feladatok ellátásának részletes szabályait, ha e törvény másként nem rendelkezik, jogszabályok tartalmazzák.
+> (1) A 13. § (1) bekezdésében meghatározott feladatok ellátásának részletes szabályait, ha e törvény másként nem rendelkezik, jogszabályok tartalmazzák.
 >
 > (2) A 13. § (1) bekezdés 3. pontjában meghatározott közterület, illetve közintézmény nem viselheti
 >
@@ -292,7 +292,7 @@ A szakasz a 13. § (1) bekezdésében meghatározott feladatok részletes szabá
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁶⁾ Minden belterületi és olyan külterületi közterületet el kell nevezni, amely olyan ingatlanhoz vezet, amelyen a magyar építészetről szóló törvény szerinti épület található.
+> (1)⁽¹⁶⁾ Minden belterületi és olyan külterületi közterületet el kell nevezni, amely olyan ingatlanhoz vezet, amelyen a magyar építészetről szóló törvény szerinti épület található.
 >
 > (2) Közterület elnevezéseként nem alkalmazható
 >
@@ -338,7 +338,7 @@ A szakasz a közfoglalkoztatás intézményének az önkormányzati feladatellá
 
 **A rendelkezés szövege:**
 
-> Ha az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettség határideje eredménytelenül telt el, vagy a határidőben történő teljesítés elmaradásának reális veszélye fennáll, a Kormány a kötelezettséggel összefüggő beruházás megvalósításáról saját hatáskörben gondoskodhat. A Kormány a beruházás saját hatáskörben történő megvalósításáról egyedi határozatban dönt.
+> (1) Ha az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettség határideje eredménytelenül telt el, vagy a határidőben történő teljesítés elmaradásának reális veszélye fennáll, a Kormány a kötelezettséggel összefüggő beruházás megvalósításáról saját hatáskörben gondoskodhat. A Kormány a beruházás saját hatáskörben történő megvalósításáról egyedi határozatban dönt.
 >
 > (2)⁽²⁰⁾ A Kormány határozatát az érintett önkormányzat közigazgatási perben megtámadhatja. A Kormányt – ha az (1) bekezdés szerinti határozat másként nem rendelkezik – a helyi önkormányzatokért felelős miniszter képviseli.
 >
@@ -392,7 +392,7 @@ A szakasz a várakozási (parkolási) közszolgáltatás ellátására jogosult 
 
 **A rendelkezés szövege:**
 
-> A települési és a fővárosi önkormányzat a helyi közbiztonságról, vagyonának, más értékének védelméről kényszerítő eszköz alkalmazására törvény alapján jogosult szervezet létrehozásával is gondoskodhat.
+> (1) A települési és a fővárosi önkormányzat a helyi közbiztonságról, vagyonának, más értékének védelméről kényszerítő eszköz alkalmazására törvény alapján jogosult szervezet létrehozásával is gondoskodhat.
 >
 > (2)⁽²⁴⁾ Az (1) bekezdésben meghatározott szervezet alaptevékenységét a települési és a fővárosi önkormányzat területe szerint illetékes vármegyei (fővárosi) rendőr-főkapitánysággal kötött írásbeli együttműködési megállapodás alapján, a rendőrség szakmai felügyeletével végzi. A megállapodás közigazgatási szerződésnek minősül.
 >
@@ -412,7 +412,7 @@ A szakasz a helyi közbiztonsággal kapcsolatos önkormányzati feladatellátás
 
 **A rendelkezés szövege:**
 
-> ⁽²⁵⁾ Ha törvény vagy törvényi felhatalmazáson alapuló kormányrendelet a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke, a jegyző, valamint a polgármesteri hivatal és a közös önkormányzati hivatal ügyintézője
+> (1)⁽²⁵⁾ Ha törvény vagy törvényi felhatalmazáson alapuló kormányrendelet a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke, a jegyző, valamint a polgármesteri hivatal és a közös önkormányzati hivatal ügyintézője
 >
 > a) számára államigazgatási feladat- és hatáskört állapít meg, vagy
 >
@@ -456,7 +456,7 @@ A szakasz a III. Fejezet – a helyi önkormányzatok, szerveik és működésü
 
 **A rendelkezés szövege:**
 
-> A községi önkormányzat köteles ellátni mindazokat a törvényben meghatározott feladatokat, amelyek a helyi lakosság alapvető létfeltételeit, az ehhez szükséges közszolgáltatások közvetlen igénybevételének lehetőségeit biztosítják.
+> (1) A községi önkormányzat köteles ellátni mindazokat a törvényben meghatározott feladatokat, amelyek a helyi lakosság alapvető létfeltételeit, az ehhez szükséges közszolgáltatások közvetlen igénybevételének lehetőségeit biztosítják.
 >
 > (2) A nagyközségi címet használhatják azon községi önkormányzatok, amelyek a törvény hatálybalépésekor nagyközségi címmel rendelkeztek, továbbá, amelyek területén legalább háromezer lakos él.
 
@@ -468,7 +468,7 @@ A szakasz a községi önkormányzat alapfeladatát és a nagyközségi cím has
 
 **A rendelkezés szövege:**
 
-> A járásszékhely városi, valamint a városi önkormányzat – törvényben meghatározottak szerint – olyan közszolgáltatásokat lát el, melyeket saját területén és vonzáskörzetében, vagy a járás egész területén gazdaságosan, hatékonyan és a szakmai szabályok előírásainak megfelelően képes biztosítani.
+> (1) A járásszékhely városi, valamint a városi önkormányzat – törvényben meghatározottak szerint – olyan közszolgáltatásokat lát el, melyeket saját területén és vonzáskörzetében, vagy a járás egész területén gazdaságosan, hatékonyan és a szakmai szabályok előírásainak megfelelően képes biztosítani.
 >
 > (2)⁽²⁸⁾ A megyei jogú város települési önkormányzat, amely – törvényben meghatározottak szerint, az abban foglalt kivételekkel – azokat a közszolgáltatásokat is biztosítja, melyek saját területén túl a vármegye egészére vagy nagy részére kiterjednek.
 >
@@ -492,7 +492,7 @@ A szakasz a városi jellegű települési önkormányzatok – a járásszékhel
 
 **A rendelkezés szövege:**
 
-> Budapest főváros kétszintű önkormányzata (a főváros önkormányzati rendszere) a fővárosi és a kerületi szintű önkormányzatokból áll.
+> (1) Budapest főváros kétszintű önkormányzata (a főváros önkormányzati rendszere) a fővárosi és a kerületi szintű önkormányzatokból áll.
 >
 > (2) A fővárosi, valamint a fővárosi kerületi önkormányzatok önkormányzati alapjogaikat tekintve egyenlőek, feladat- és hatásköreik egymástól eltérnek.
 >
@@ -520,7 +520,7 @@ A szakasz Budapest főváros kétszintű önkormányzati rendszerének alapvető
 
 **A rendelkezés szövege:**
 
-> A fővárosi önkormányzat az e törvényben meghatározottak szerint ellátja mindazokat a terület- és településfejlesztési, valamint területrendezési, településrendezési és településüzemeltetési feladatokat, amelyek a főváros egészét érintik, vagy amelyek a fővárosnak az országban betöltött különleges szerepköréhez kapcsolódnak.
+> (1) A fővárosi önkormányzat az e törvényben meghatározottak szerint ellátja mindazokat a terület- és településfejlesztési, valamint területrendezési, településrendezési és településüzemeltetési feladatokat, amelyek a főváros egészét érintik, vagy amelyek a fővárosnak az országban betöltött különleges szerepköréhez kapcsolódnak.
 >
 > (2)⁽³²⁾ A fővárosi önkormányzat látja el – a (4) és (5) bekezdésben szabályozott feladatmegosztás szerint – a főváros egészét, több kerületét, valamint a fővárosi önkormányzat által közvetlenül igazgatott Margitszigetet érintő helyi önkormányzati feladatokat.
 >
@@ -666,7 +666,7 @@ A szakasz a helyi adóztatás jogosultjainak körét rögzíti a főváros vonat
 
 **A rendelkezés szövege:**
 
-> ⁽³⁸⁾ A vármegyei önkormányzat területi önkormányzat, amely törvényben meghatározottak szerint területfejlesztési, vidékfejlesztési, valamint koordinációs feladatokat lát el. A vármegyei önkormányzat képviselő-testülete a közgyűlés.
+> (1)⁽³⁸⁾ A vármegyei önkormányzat területi önkormányzat, amely törvényben meghatározottak szerint területfejlesztési, vidékfejlesztési, valamint koordinációs feladatokat lát el. A vármegyei önkormányzat képviselő-testülete a közgyűlés.
 >
 > (1a)⁽³⁹⁾ A vármegyei önkormányzat székhelyét a szervezeti és működési szabályzatról szóló rendeletében a vármegyeszékhely település területén határozza meg.
 >
@@ -700,7 +700,7 @@ A szakasz a vármegyei önkormányzat mint területi önkormányzat alapvető jo
 
 **A rendelkezés szövege:**
 
-> A helyi önkormányzati képviselő (a továbbiakban: önkormányzati képviselő) megbízatása, jogai és kötelezettségei a megválasztásával keletkeznek, a megbízatás megszűnésével szűnnek meg.
+> (1) A helyi önkormányzati képviselő (a továbbiakban: önkormányzati képviselő) megbízatása, jogai és kötelezettségei a megválasztásával keletkeznek, a megbízatás megszűnésével szűnnek meg.
 >
 > (2)⁽⁴⁴⁾ Ha a listáról megválasztott önkormányzati képviselő nem veszi át a megbízólevelét, jelöltként továbbra is a listán marad. A lista alapján a helyi önkormányzati képviselők következő általános választásáig a helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 21. § (2) bekezdése alapján képviselői megbízatást szerezhet.
 >
@@ -718,7 +718,7 @@ A szakasz – amelyet a 2020: VII. törvény állapított meg újra – a helyi 
 
 **A rendelkezés szövege:**
 
-> Az önkormányzati képviselő megbízatása megszűnik:
+> (1) Az önkormányzati képviselő megbízatása megszűnik:
 >
 > a) a megválasztását követő helyi önkormányzati általános választás napján, jelöltek hiányában elmaradt választás esetén az időközi választás napján;
 >
@@ -748,7 +748,7 @@ A szakasz az önkormányzati képviselői megbízatás megszűnésének taxatív
 
 **A rendelkezés szövege:**
 
-> Az önkormányzati képviselő a képviselő-testület ülésén jelentheti be lemondását. A lemondást és a megbízatás megszűnésének időpontját az ülés jegyzőkönyvében rögzíteni kell.
+> (1) Az önkormányzati képviselő a képviselő-testület ülésén jelentheti be lemondását. A lemondást és a megbízatás megszűnésének időpontját az ülés jegyzőkönyvében rögzíteni kell.
 >
 > (2)⁽⁴⁵⁾ Az önkormányzati képviselő lemondhat a képviselő-testülethez intézett írásbeli nyilatkozatával is, melyet a polgármesternek, a főpolgármesternek, a vármegyei közgyűlés elnökének ad át vagy juttat el. Az írásbeli nyilatkozatot a képviselő-testület következő ülésén ismertetni kell.
 >
@@ -766,7 +766,7 @@ A szakasz a lemondás mint megbízatás-megszűnési ok (29. § (1) bekezdés f)
 
 **A rendelkezés szövege:**
 
-> Az önkormányzati képviselői megbízatás megszűnését a 29. § (1) bekezdés c)–e) pontjai esetén a képviselő-testület a határozatában állapítja meg.
+> (1) Az önkormányzati képviselői megbízatás megszűnését a 29. § (1) bekezdés c)–e) pontjai esetén a képviselő-testület a határozatában állapítja meg.
 >
 > (2) A képviselő-testület (1) bekezdés szerinti határozatát kézbesíteni kell:
 >
@@ -798,7 +798,7 @@ A szakaszt a 2014: XXIII. törvény iktatta be, majd a 2023. évi XCV. törvény
 
 **A rendelkezés szövege:**
 
-> ⁽⁴⁷⁾ Az önkormányzati képviselő a település (fővárosi kerület, vármegye) egészéért vállalt felelősséggel képviseli a választóinak az érdekeit. Az önkormányzati képviselők jogai és kötelességei azonosak.
+> (1)⁽⁴⁷⁾ Az önkormányzati képviselő a település (fővárosi kerület, vármegye) egészéért vállalt felelősséggel képviseli a választóinak az érdekeit. Az önkormányzati képviselők jogai és kötelességei azonosak.
 >
 > (2) Az önkormányzati képviselő:
 >
@@ -836,7 +836,7 @@ A szakasz az önkormányzati képviselő jogainak és kötelezettségeinek átfo
 
 **A rendelkezés szövege:**
 
-> Az e törvényben meghatározott kötelezettségeit megszegő önkormányzati képviselő megállapított tiszteletdíját, természetbeni juttatását a képviselő-testület – a szervezeti és működési szabályzatában meghatározottak alapján – legfeljebb tizenkét havi időtartamra csökkentheti, megvonhatja (az e § alkalmazásában a továbbiakban: vagyoni szankció). Ismételt kötelezettségszegés esetén a csökkentés vagy a megvonás újra megállapítható.
+> (1) Az e törvényben meghatározott kötelezettségeit megszegő önkormányzati képviselő megállapított tiszteletdíját, természetbeni juttatását a képviselő-testület – a szervezeti és működési szabályzatában meghatározottak alapján – legfeljebb tizenkét havi időtartamra csökkentheti, megvonhatja (az e § alkalmazásában a továbbiakban: vagyoni szankció). Ismételt kötelezettségszegés esetén a csökkentés vagy a megvonás újra megállapítható.
 >
 > (2) A képviselő-testület köteles a szervezeti és működési szabályzatában rendelkezni az (1) bekezdés szerinti azon vagyoni szankcióról, amelyet akkor kell alkalmazni, ha az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló törvény szerinti vagyonnyilatkozati feladatkörével összefüggésben eljáró Integritás Hatóság a képviselő vagyonnyilatkozat-tételi kötelezettségével összefüggésben – a képviselő méltatlanságát meg nem alapozó – kizárólag adminisztratív jellegű, ugyanakkor csekély vagy elhanyagolható jelentőséget meghaladó hiányosságot tárt fel.
 
@@ -862,7 +862,7 @@ A szakasz a tanácsnok intézményének megalapítási lehetőségét szabályoz
 
 **A rendelkezés szövege:**
 
-> A képviselő-testület az önkormányzati képviselőnek, a bizottsági elnöknek, a bizottság tagjának, a tanácsnoknak rendeletében meghatározott tiszteletdíjat, természetbeni juttatást állapíthat meg.
+> (1) A képviselő-testület az önkormányzati képviselőnek, a bizottsági elnöknek, a bizottság tagjának, a tanácsnoknak rendeletében meghatározott tiszteletdíjat, természetbeni juttatást állapíthat meg.
 >
 > (1a)⁽⁴⁹⁾ A fővárosi közgyűlés fővárosi kerületi polgármesteri tisztséget is betöltő tagja számára közgyűlési tagságért tiszteletdíjat, költségtérítést, költségátalányt és egyéb juttatást állapíthat meg.
 >
@@ -892,7 +892,7 @@ A szakasz az önkormányzati képviselők, bizottsági elnökök és tagok, vala
 
 **A rendelkezés szövege:**
 
-> ⁽⁵²⁾ Az önkormányzati képviselő, valamint a képviselő-testület bizottságának nem képviselő tagja nem folytathat olyan tevékenységet, amely a feladatainak ellátásához szükséges közbizalmat megingathatja, továbbá nem lehet
+> (1)⁽⁵²⁾ Az önkormányzati képviselő, valamint a képviselő-testület bizottságának nem képviselő tagja nem folytathat olyan tevékenységet, amely a feladatainak ellátásához szükséges közbizalmat megingathatja, továbbá nem lehet
 >
 > a) országgyűlési képviselő, valamint aki olyan tisztséget tölt be, olyan feladatot lát el, amelyre kinevezését, megbízatását az Országgyűléstől, köztársasági elnöktől, Kormánytól, Kormány tagjától vagy az Országgyűlés, Kormány alárendeltségébe tartozó szervtől (vezetőjétől) kapta, kivéve
 >
@@ -962,7 +962,7 @@ A 2014: XXIII. törvénnyel megállapított szakasz az önkormányzati képvisel
 
 **A rendelkezés szövege:**
 
-> Az önkormányzati képviselő az összeférhetetlenségi okot a megválasztásától vagy az összeférhetetlenségi ok felmerülésétől számított harminc napon belül köteles megszüntetni. Amennyiben jogszabályban meghatározottak szerint nem lehetséges az összeférhetetlenségi ok alapjául szolgáló jogviszony harminc napon belül történő megszüntetése, akkor az önkormányzati képviselő által tett és a jogviszony megszüntetéséről szóló, az arra jogosult által írásban megerősített lemondó nyilatkozatának a szervezeti és működési szabályzatban meghatározott bizottságnak történő átadását az összeférhetetlenség megszüntetésének kell tekinteni.
+> (1) Az önkormányzati képviselő az összeférhetetlenségi okot a megválasztásától vagy az összeférhetetlenségi ok felmerülésétől számított harminc napon belül köteles megszüntetni. Amennyiben jogszabályban meghatározottak szerint nem lehetséges az összeférhetetlenségi ok alapjául szolgáló jogviszony harminc napon belül történő megszüntetése, akkor az önkormányzati képviselő által tett és a jogviszony megszüntetéséről szóló, az arra jogosult által írásban megerősített lemondó nyilatkozatának a szervezeti és működési szabályzatban meghatározott bizottságnak történő átadását az összeférhetetlenség megszüntetésének kell tekinteni.
 >
 > (2) Ha az önkormányzati képviselő az (1) bekezdésben foglalt kötelezettségének nem tett eleget, bármely önkormányzati képviselő vagy bizottság indítványára – az összeférhetetlenséggel kapcsolatos feladatokat ellátó bizottság javaslata alapján – a képviselő-testület a következő ülésén, legkésőbb az összeférhetetlenség megállapításának kezdeményezését követő harminc napon belül határozattal megállapítja az összeférhetetlenség alapjául szolgáló körülmények fennállását, és kimondja az összeférhetetlenséget. A képviselő-testület határozatát az önkormányzati képviselőnek és a kormányhivatalnak kézbesíteni kell.
 >
@@ -994,7 +994,7 @@ A szakasz az összeférhetetlenség megszüntetésének és megállapításának
 
 **A rendelkezés szövege:**
 
-> Méltatlanság miatt a képviselő-testület határozatával megszünteti annak az önkormányzati képviselőnek a megbízatását,
+> (1) Méltatlanság miatt a képviselő-testület határozatával megszünteti annak az önkormányzati képviselőnek a megbízatását,
 >
 > a)⁽⁶⁹⁾ aki a vagyonnyilatkozat-tételi kötelezettségét elmulasztja, vagy a vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt,
 >
@@ -1036,7 +1036,7 @@ A szakasz az önkormányzati képviselő méltatlansága miatti megbízatás-meg
 
 **A rendelkezés szövege:**
 
-> ⁽⁷³⁾ Az önkormányzati képviselő megválasztásától, majd ezt követően minden év január 1-jétől számított harminc napon belül a 2. melléklet szerinti vagyonnyilatkozatot köteles tenni. Az önkormányzati képviselő saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozójának (e § alkalmazásában a továbbiakban: hozzátartozó) a 2. melléklet szerinti vagyonnyilatkozatát.
+> (1)⁽⁷³⁾ Az önkormányzati képviselő megválasztásától, majd ezt követően minden év január 1-jétől számított harminc napon belül a 2. melléklet szerinti vagyonnyilatkozatot köteles tenni. Az önkormányzati képviselő saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő − a Polgári Törvénykönyvről szóló törvény szerinti − hozzátartozójának (e § alkalmazásában a továbbiakban: hozzátartozó) a 2. melléklet szerinti vagyonnyilatkozatát.
 >
 > (2) A vagyonnyilatkozat tételének elmulasztása esetén – annak benyújtásáig – az önkormányzati képviselő e tisztségéből fakadó jogait nem gyakorolhatja, tiszteletdíjat, természetbeni juttatást, költségtérítést nem kaphat.
 >
@@ -1064,7 +1064,7 @@ A 2026. évi XVIII. törvénnyel módosított szakasz az önkormányzati képvis
 
 **A rendelkezés szövege:**
 
-> A képviselő-testület bizottságának nem képviselő tagja a megválasztását követően a képviselő-testület előtt – a képviselőre irányadó szöveggel – esküt tesz, és erről okmányt ír alá.
+> (1) A képviselő-testület bizottságának nem képviselő tagja a megválasztását követően a képviselő-testület előtt – a képviselőre irányadó szöveggel – esküt tesz, és erről okmányt ír alá.
 >
 > (2) A képviselő-testület bizottságának nem képviselő tagjával szemben fennálló összeférhetetlenségre az önkormányzati képviselőkre vonatkozó szabályokat kell alkalmazni azzal az eltéréssel, hogy ha a képviselő-testület bizottságának nem képviselő tagja harminc napon belül nem szünteti meg a vele szemben fennálló összeférhetetlenségi okot, a képviselő-testület köteles a határidő lejártát követő ülésén az érintett bizottsági tagságát megszüntetni. E döntés ellen jogorvoslatnak helye nincs.
 >

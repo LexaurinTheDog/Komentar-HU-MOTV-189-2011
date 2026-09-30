@@ -6,7 +6,7 @@
 
 **A rendelkezés szövege:**
 
-> ⁽⁷⁶⁾ A helyi önkormányzat jogi személy, a Polgári Törvénykönyvről szóló törvény jogi személyekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni. A képviselő-testületet a polgármester, a vármegyei közgyűlés elnöke, a főpolgármester képviseli.
+> (1)⁽⁷⁶⁾ A helyi önkormányzat jogi személy, a Polgári Törvénykönyvről szóló törvény jogi személyekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni. A képviselő-testületet a polgármester, a vármegyei közgyűlés elnöke, a főpolgármester képviseli.
 >
 > (2)⁽⁷⁷⁾ Az önkormányzati feladatok ellátását a képviselő-testület és szervei biztosítják. A képviselő-testület szervei: a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke, a képviselő-testület bizottságai, a részönkormányzat testülete, a polgármesteri hivatal, a vármegyei önkormányzati hivatal, a közös önkormányzati hivatal, a jegyző, továbbá a társulás.
 >
@@ -96,7 +96,7 @@ A szakasz a képviselő-testület át nem ruházható hatásköreinek taxatív, 
 
 **A rendelkezés szövege:**
 
-> ⁽⁸⁵⁾ A képviselő-testület az alakuló ülését a választás eredményének jogerőssé válását követő tizenöt napon belül tartja meg.
+> (1)⁽⁸⁵⁾ A képviselő-testület az alakuló ülését a választás eredményének jogerőssé válását követő tizenöt napon belül tartja meg.
 >
 > (2)⁽⁸⁶⁾ Az alakuló ülést a polgármester hívja össze és vezeti. A vármegyei közgyűlés alakuló ülését a választást követő tizenöt napon belül a korelnök hívja össze, és vezeti a vármegyei közgyűlés új elnökének szervezeti és működési szabályzat szerinti megválasztásának időpontjáig.
 >
@@ -134,7 +134,7 @@ A szakasz a képviselő-testület ülésének összehívására és vezetésére
 
 **A rendelkezés szövege:**
 
-> A képviselő-testület ülése nyilvános.
+> (1) A képviselő-testület ülése nyilvános.
 >
 > (2) A képviselő-testület
 >
@@ -154,7 +154,7 @@ A szakasz a képviselő-testület ülésének nyilvánosságára és a nyilváno
 
 **A rendelkezés szövege:**
 
-> A képviselő-testület akkor határozatképes, ha az ülésen az önkormányzati képviselőknek több mint a fele jelen van. A határozatképességet folyamatosan figyelemmel kell kísérni.
+> (1) A képviselő-testület akkor határozatképes, ha az ülésen az önkormányzati képviselőknek több mint a fele jelen van. A határozatképességet folyamatosan figyelemmel kell kísérni.
 >
 > (2) A javaslat elfogadásához az egyszerű többséget igénylő javaslat esetén a jelen levő önkormányzati képviselők, minősített többséget igénylő javaslat esetén az önkormányzati képviselők több mint a felének igen szavazata szükséges. A betöltetlen önkormányzati képviselői helyet a határozatképesség szempontjából betöltöttnek kell tekinteni.
 >
@@ -176,7 +176,7 @@ A szakasz a képviselő-testület határozatképességének és a döntéshozata
 
 **A rendelkezés szövege:**
 
-> A képviselő-testület a döntéseit (határozat, rendelet) nyílt szavazással hozza.
+> (1) A képviselő-testület a döntéseit (határozat, rendelet) nyílt szavazással hozza.
 >
 > (2) A nyílt szavazás módjának meghatározásáról a szervezeti és működési szabályzat rendelkezik.
 >
@@ -194,7 +194,7 @@ A szakasz a képviselő-testületi szavazás módjait és az eredmény megállap
 
 **A rendelkezés szövege:**
 
-> A képviselő-testület döntéshozatalából kizárható az, akit vagy akinek a közeli hozzátartozóját az ügy személyesen érinti. Az önkormányzati képviselő köteles bejelenteni a személyes érintettséget. A kizárásról az érintett önkormányzati képviselő kezdeményezésére vagy bármely önkormányzati képviselő javaslatára a képviselő-testület dönt. A kizárt önkormányzati képviselőt a határozatképesség szempontjából jelenlevőnek kell tekinteni.
+> (1) A képviselő-testület döntéshozatalából kizárható az, akit vagy akinek a közeli hozzátartozóját az ügy személyesen érinti. Az önkormányzati képviselő köteles bejelenteni a személyes érintettséget. A kizárásról az érintett önkormányzati képviselő kezdeményezésére vagy bármely önkormányzati képviselő javaslatára a képviselő-testület dönt. A kizárt önkormányzati képviselőt a határozatképesség szempontjából jelenlevőnek kell tekinteni.
 >
 > (1a)⁽⁹⁰⁾ Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha a képviselő-testület döntéshozatala saját tagjának választására, kinevezésére, megbízására vagy delegálására irányul.
 >
@@ -224,7 +224,7 @@ A szakasz a minősített többséggel meghozandó döntések körét határozza 
 
 **A rendelkezés szövege:**
 
-> A helyi önkormányzat képviselő-testülete által megalkotott rendeletet a polgármester és a jegyző írja alá.
+> (1) A helyi önkormányzat képviselő-testülete által megalkotott rendeletet a polgármester és a jegyző írja alá.
 >
 > (2)⁽⁹²⁾ Az önkormányzati rendeletet a képviselő-testület hivatalos lapjában vagy a helyben szokásos – a szervezeti és működési szabályzatban meghatározott – módon ki kell hirdetni. A saját honlappal rendelkező önkormányzat rendeletét a honlapján is közzéteszi. Kihirdetéséről a jegyző gondoskodik. A jegyző kormányrendeletben meghatározottak szerint gondoskodik az önkormányzati rendelet kormányhivatal részére történő megküldéséről.
 >
@@ -248,7 +248,7 @@ A szakasz az önkormányzati rendeletalkotási eljárás záró mozzanatait: az 
 
 **A rendelkezés szövege:**
 
-> A képviselő-testület üléséről jegyzőkönyvet kell készíteni, amely tartalmazza:
+> (1) A képviselő-testület üléséről jegyzőkönyvet kell készíteni, amely tartalmazza:
 >
 > a) a testületi ülés helyét;
 >
@@ -292,7 +292,7 @@ A szakasz a képviselő-testületi ülésről készítendő jegyzőkönyv kötel
 
 **A rendelkezés szövege:**
 
-> A képviselő-testület a működésének részletes szabályait a szervezeti és működési szabályzatról szóló rendeletében határozza meg. A képviselő-testület a szervezeti és működési szabályzatról szóló rendeletben rendelkezik:
+> (1) A képviselő-testület a működésének részletes szabályait a szervezeti és működési szabályzatról szóló rendeletében határozza meg. A képviselő-testület a szervezeti és működési szabályzatról szóló rendeletben rendelkezik:
 >
 > a) az önkormányzat hivatalos megnevezéséről, székhelyéről;
 >
@@ -348,7 +348,7 @@ A szakasz a közmeghallgatás intézményét szabályozza, amely a lakossági r�
 
 **A rendelkezés szövege:**
 
-> ⁽⁹⁶⁾ A képviselő-testület a megbízatásának lejárta előtt név szerinti szavazással, minősített többségű döntéssel kimondhatja a feloszlását.
+> (1)⁽⁹⁶⁾ A képviselő-testület a megbízatásának lejárta előtt név szerinti szavazással, minősített többségű döntéssel kimondhatja a feloszlását.
 >
 > (1a)⁽⁹⁷⁾ A fővárosi közgyűlés feloszlásának kimondásához az önkormányzati képviselők négyötödének igen szavazata szükséges.
 >
@@ -372,7 +372,7 @@ A szakasz a képviselő-testület önfeloszlatásának szabályait és az önfel
 
 **A rendelkezés szövege:**
 
-> A települési képviselő-testület más települési képviselő-testülettel társult képviselő-testületet alakíthat.
+> (1) A települési képviselő-testület más települési képviselő-testülettel társult képviselő-testületet alakíthat.
 >
 > (2) Társult képviselő-testület alakítása esetén a képviselő-testületek részben vagy egészben egyesítik a költségvetésüket, közös önkormányzati hivatalt tartanak fenn és intézményeiket közösen működtetik.
 >
@@ -392,7 +392,7 @@ A szakasz a társult képviselő-testület intézményét szabályozza, amely a 
 
 **A rendelkezés szövege:**
 
-> A képviselő-testület szervezeti és működési szabályzatában határozza meg bizottságait, a bizottságok tagjainak számát, a bizottságok feladat- és hatáskörét, működésük alapvető szabályait. Az alakuló vagy az azt követő ülésen a polgármester előterjesztésére köteles megválasztani a törvény által kötelezően létrehozandó és a szervezeti és működési szabályzatban meghatározott bizottságait. A száz főt meg nem haladó lakosú településen a bizottsági feladatokat a képviselő-testület látja el. Az ezer főt meg nem haladó lakosú településen a kötelező bizottsági feladat- és hatásköröket egy bizottság is elláthatja. A bizottság tagjává nem önkormányzati képviselő tag is választható. A nem önkormányzati képviselő tag jogai és kötelezettségei a bizottság ülésein megegyeznek az önkormányzati képviselő bizottsági tag jogaival és kötelezettségeivel.
+> (1) A képviselő-testület szervezeti és működési szabályzatában határozza meg bizottságait, a bizottságok tagjainak számát, a bizottságok feladat- és hatáskörét, működésük alapvető szabályait. Az alakuló vagy az azt követő ülésen a polgármester előterjesztésére köteles megválasztani a törvény által kötelezően létrehozandó és a szervezeti és működési szabályzatban meghatározott bizottságait. A száz főt meg nem haladó lakosú településen a bizottsági feladatokat a képviselő-testület látja el. Az ezer főt meg nem haladó lakosú településen a kötelező bizottsági feladat- és hatásköröket egy bizottság is elláthatja. A bizottság tagjává nem önkormányzati képviselő tag is választható. A nem önkormányzati képviselő tag jogai és kötelezettségei a bizottság ülésein megegyeznek az önkormányzati képviselő bizottsági tag jogaival és kötelezettségeivel.
 >
 > (2)⁽⁹⁹⁾ A képviselő-testület a kétezernél több lakosú településen pénzügyi bizottságot hoz létre. A vagyonnyilatkozatok nyilvántartásáról, kezeléséről és őrzéséről a szervezeti és működési szabályzatban meghatározott bizottság gondoskodik. Törvény más bizottság megalakítását is elrendelheti, amelynek feladat- és hatáskört állapíthat meg.
 >
@@ -408,7 +408,7 @@ A szakasz a képviselő-testület bizottságainak megalakítására és alapvet�
 
 **A rendelkezés szövege:**
 
-> A bizottság elnökének és tagjainak megbízatása a képviselő-testület által történő megválasztással jön létre, a képviselő-testület megbízatásának időtartamára. A bizottság elnökét és – az elnökkel együtt számított – tagjainak több mint a felét az önkormányzati képviselők közül kell választani. Nem lehet a bizottság elnöke vagy tagja a polgármester.
+> (1) A bizottság elnökének és tagjainak megbízatása a képviselő-testület által történő megválasztással jön létre, a képviselő-testület megbízatásának időtartamára. A bizottság elnökét és – az elnökkel együtt számított – tagjainak több mint a felét az önkormányzati képviselők közül kell választani. Nem lehet a bizottság elnöke vagy tagja a polgármester.
 >
 > (2) A képviselő-testület a bizottság személyi összetételét, létszámát a polgármester előterjesztésére bármikor megváltoztathatja, a kötelezően létrehozandó bizottság kivételével a bizottságot megszüntetheti.
 >
@@ -422,7 +422,7 @@ A szakasz a bizottsági tagság keletkezésének, megszűnésének és a tagok s
 
 **A rendelkezés szövege:**
 
-> A bizottság – feladatkörében – kezdeményezi, előkészíti a képviselő-testület döntéseit, a képviselő-testület által átruházott hatáskörben döntést hoz.
+> (1) A bizottság – feladatkörében – kezdeményezi, előkészíti a képviselő-testület döntéseit, a képviselő-testület által átruházott hatáskörben döntést hoz.
 >
 > (2) A képviselő-testület a szervezeti és működési szabályzatában határozza meg azokat az előterjesztéseket, amelyeket bizottság nyújt be, továbbá amely előterjesztések a bizottság állásfoglalásával nyújthatók be a képviselő-testületnek.
 >
@@ -448,7 +448,7 @@ A szakasz a bizottsági ülésekre vonatkozó eljárási szabályokat a képvise
 
 **A rendelkezés szövege:**
 
-> A polgármester indítványára a bizottságot össze kell hívni az indítvány kézhezvételétől számított nyolc napon belül.
+> (1) A polgármester indítványára a bizottságot össze kell hívni az indítvány kézhezvételétől számított nyolc napon belül.
 >
 > (2) A polgármester felfüggesztheti a bizottság, a részönkormányzat testülete döntésének a végrehajtását, ha az ellentétes a képviselő-testület határozatával vagy sérti az önkormányzat érdekeit. A felfüggesztett döntésről a képviselő-testület a következő ülésén határoz.
 >
@@ -466,7 +466,7 @@ A szakasz a bizottság összehívására vonatkozó polgármesteri jogosultságo
 
 **A rendelkezés szövege:**
 
-> A képviselő-testület – szervezeti és működési szabályzatában meghatározottak szerint – valamely településrész sajátos érdekeinek képviseletére településrészi önkormányzatot (részönkormányzat) hozhat létre települési képviselőkből és más, az adott településrészen élő választópolgárokból.
+> (1) A képviselő-testület – szervezeti és működési szabályzatában meghatározottak szerint – valamely településrész sajátos érdekeinek képviseletére településrészi önkormányzatot (részönkormányzat) hozhat létre települési képviselőkből és más, az adott településrészen élő választópolgárokból.
 >
 > (2) A részönkormányzat testületére önkormányzati hatósági hatáskör nem ruházható át.
 >
@@ -496,7 +496,7 @@ A szakasz a polgármesteri tisztség keletkezésének formai és időbeli mozzan
 
 **A rendelkezés szövege:**
 
-> A polgármester tisztségét főállásban vagy társadalmi megbízatásban látja el.
+> (1) A polgármester tisztségét főállásban vagy társadalmi megbízatásban látja el.
 >
 > (2) Főállású a polgármester, ha főállású polgármesterként választották meg. A polgármesteri tisztség betöltésének módját a képviselő-testület a megbízatás időtartamán belül egy esetben a polgármester egyetértésével, a szervezeti és működési szabályzat egyidejű módosításával megváltoztathatja.
 
@@ -528,7 +528,7 @@ A szakasz a polgármester képviselő-testületi tagságának jogi minősítés�
 
 **A rendelkezés szövege:**
 
-> A polgármester
+> (1) A polgármester
 >
 > a) a képviselő-testület döntései szerint és saját hatáskörében irányítja a polgármesteri hivatalt, a közös önkormányzati hivatalt;
 >
@@ -556,7 +556,7 @@ A szakasz a polgármester önálló, a képviselő-testülettől független hat�
 
 **A rendelkezés szövege:**
 
-> Amennyiben a polgármester a képviselő-testület döntését a helyi önkormányzat érdekeit sértőnek tartja, ugyanazon ügyben – a képviselő-testület önfeloszlatásáról szóló, valamint a 70. § (1) bekezdésében meghatározott ügyben hozott döntése kivételével – egy alkalommal kezdeményezheti az ismételt tárgyalást. A kezdeményezést az ülést követő három napon belül nyújthatja be, a képviselő-testület a benyújtás napjától számított tizenöt napon belül minősített többséggel dönt. A döntést addig végrehajtani nem lehet, amíg arról a képviselő-testület a megismételt tárgyalás alapján nem dönt.
+> (1) Amennyiben a polgármester a képviselő-testület döntését a helyi önkormányzat érdekeit sértőnek tartja, ugyanazon ügyben – a képviselő-testület önfeloszlatásáról szóló, valamint a 70. § (1) bekezdésében meghatározott ügyben hozott döntése kivételével – egy alkalommal kezdeményezheti az ismételt tárgyalást. A kezdeményezést az ülést követő három napon belül nyújthatja be, a képviselő-testület a benyújtás napjától számított tizenöt napon belül minősített többséggel dönt. A döntést addig végrehajtani nem lehet, amíg arról a képviselő-testület a megismételt tárgyalás alapján nem dönt.
 >
 > (1a)⁽¹⁰³⁾ A főpolgármester az (1) bekezdésben meghatározott ismételt tárgyalást, annak szabályait megfelelően alkalmazva, ugyanazon ügyben több alkalommal is kezdeményezheti. Az ismételt tárgyalás során hozott döntés akkor hajtható végre, ha az üléstől számított három napon belül a főpolgármester nem kezdeményez újabb ismételt tárgyalást.
 >
@@ -576,7 +576,7 @@ A szakasz a polgármester és a képviselő-testület közötti hatásköri fesz
 
 **A rendelkezés szövege:**
 
-> A polgármester e tisztsége megszűnik:
+> (1) A polgármester e tisztsége megszűnik:
 >
 > a) az új polgármester megválasztásával;
 >
@@ -606,7 +606,7 @@ A szakasz a polgármesteri tisztség megszűnésének taxatív okait, valamint a
 
 **A rendelkezés szövege:**
 
-> A képviselő-testület – minősített többséggel hozott határozata alapján – közigazgatási pert indíthat a polgármester ellen sorozatos törvénysértő tevékenysége, illetve mulasztása miatti jogi felelősségének megállapítása iránt, a polgármester tisztségének megszűnése érdekében.
+> (1) A képviselő-testület – minősített többséggel hozott határozata alapján – közigazgatási pert indíthat a polgármester ellen sorozatos törvénysértő tevékenysége, illetve mulasztása miatti jogi felelősségének megállapítása iránt, a polgármester tisztségének megszűnése érdekében.
 >
 > (2) A keresetlevelet a bíróságnál kell benyújtani, egyidejűleg – az azonnali jogvédelem szabályai szerint – kérhető a polgármesternek e tisztségéből történő felfüggesztése. A bíróság ítélete ellen fellebbezésnek van helye. Az ügyben nincs helye perújításnak.
 >
@@ -636,7 +636,7 @@ A 70/A. §-t a 2014: XXIII. törvény 17. §-a iktatta be, majd a 2023. évi XCV
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁰⁷⁾ A főpolgármester megbízatásának időtartamára havonta a (4a) bekezdés szerinti, a Központi Statisztikai Hivatal által hivatalosan közzétett, a 2024. évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset (a továbbiakban: nemzetgazdasági átlagkereset) hatszorosának megfelelő összegű illetményre, továbbá a minisztert jogszabály alapján megillető egyéb juttatásokra jogosult.
+> (1)⁽¹⁰⁷⁾ A főpolgármester megbízatásának időtartamára havonta a (4a) bekezdés szerinti, a Központi Statisztikai Hivatal által hivatalosan közzétett, a 2024. évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset (a továbbiakban: nemzetgazdasági átlagkereset) hatszorosának megfelelő összegű illetményre, továbbá a minisztert jogszabály alapján megillető egyéb juttatásokra jogosult.
 >
 > (2)⁽¹⁰⁸⁾ A megyei jogú város polgármestere, a fővárosi kerületi önkormányzat polgármestere megbízatásának időtartamára havonta a nemzetgazdasági átlagkereset négy és félszeresének megfelelő összegű illetményre jogosult.
 >
@@ -698,7 +698,7 @@ A szakasz a főpolgármester, a megyei jogú város és a fővárosi kerület po
 
 **A rendelkezés szövege:**
 
-> ⁽¹¹⁷⁾ A 3000 fő és az az alatti lakosságszámú település polgármesterének, valamint a 3000 fő feletti település társadalmi megbízatású polgármesterének összeférhetetlenségére a 36. §-t kell alkalmazni.
+> (1)⁽¹¹⁷⁾ A 3000 fő és az az alatti lakosságszámú település polgármesterének, valamint a 3000 fő feletti település társadalmi megbízatású polgármesterének összeférhetetlenségére a 36. §-t kell alkalmazni.
 >
 > (2)⁽¹¹⁸⁾ A 3000 fő feletti lakosságszámú település főállású polgármestere
 >
@@ -752,7 +752,7 @@ A szakasz utaló rendelkezés: a polgármesteri tisztség ellátásával kapcsol
 
 **A rendelkezés szövege:**
 
-> ⁽¹²⁴⁾ A képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel a polgármester helyettesítésére, munkájának segítésére egy alpolgármestert, főpolgármester-helyettest, a vármegye közgyűlése alelnököt (a továbbiakban együtt: alpolgármester) választ, több alpolgármestert az (1a) bekezdésben meghatározottak szerint választhat. A képviselő-testület legalább egy alpolgármestert saját tagjai közül választ meg. Az alpolgármester jogai és kötelezettségei a megválasztásával keletkeznek, a megbízatás megszűnésével szűnnek meg.
+> (1)⁽¹²⁴⁾ A képviselő-testület a polgármester javaslatára, titkos szavazással, minősített többséggel a polgármester helyettesítésére, munkájának segítésére egy alpolgármestert, főpolgármester-helyettest, a vármegye közgyűlése alelnököt (a továbbiakban együtt: alpolgármester) választ, több alpolgármestert az (1a) bekezdésben meghatározottak szerint választhat. A képviselő-testület legalább egy alpolgármestert saját tagjai közül választ meg. Az alpolgármester jogai és kötelezettségei a megválasztásával keletkeznek, a megbízatás megszűnésével szűnnek meg.
 >
 > (1a)⁽¹²⁵⁾ A képviselő-testület által megválasztott alpolgármesterek száma összesen legfeljebb
 >
@@ -776,7 +776,7 @@ A szakasz az alpolgármesteri tisztség betöltésének módját, a megválaszth
 
 **A rendelkezés szövege:**
 
-> Az alpolgármesteri tisztség főállásban is ellátható. A főállású alpolgármester foglalkoztatási jogviszonya a helyi önkormányzat képviselő-testületének a tisztség főállásban történő betöltéséről szóló döntését követően, az alpolgármester megválasztásával jön létre.
+> (1) Az alpolgármesteri tisztség főállásban is ellátható. A főállású alpolgármester foglalkoztatási jogviszonya a helyi önkormányzat képviselő-testületének a tisztség főállásban történő betöltéséről szóló döntését követően, az alpolgármester megválasztásával jön létre.
 >
 > (1a)⁽¹²⁶⁾ Az adósságrendezési eljárás megindításának napjától az adósságrendezési eljárás jogerős befejezését követő két évig csak a polgármestert általános jogkörrel helyettesítő főállású alpolgármester jogviszonyának megszűnése esetén választható új főállású alpolgármester.
 >
@@ -834,7 +834,7 @@ A szakasz a társadalmi megbízatású polgármesteri tisztség és az alpolgár
 
 **A rendelkezés szövege:**
 
-> ⁽¹²⁹⁾ Ha e törvény eltérően nem rendelkezik, a polgármesteren a vármegyei közgyűlés elnökét és a főpolgármestert is érteni kell.
+> (1)⁽¹²⁹⁾ Ha e törvény eltérően nem rendelkezik, a polgármesteren a vármegyei közgyűlés elnökét és a főpolgármestert is érteni kell.
 >
 > (2)⁽¹³⁰⁾ A polgármester, a vármegyei közgyűlés elnöke, a főpolgármester jogállására vonatkozó szabályokat az alpolgármesterre, a vármegyei közgyűlés alelnökére és a főpolgármester-helyettesre is megfelelően alkalmazni kell.
 
@@ -852,7 +852,7 @@ A szakasz értelmező jellegű kiterjesztő rendelkezéseket tartalmaz, amelyek 
 
 **A rendelkezés szövege:**
 
-> ⁽¹³³⁾ A főpolgármester-helyettes, a főállású alpolgármester, a vármegyei közgyűlés alelnöke illetményének összegét a főpolgármester, a polgármester, a vármegyei közgyűlés elnöke illetménye 70–90%-a közötti összegben a képviselő-testület állapítja meg.
+> (1)⁽¹³³⁾ A főpolgármester-helyettes, a főállású alpolgármester, a vármegyei közgyűlés alelnöke illetményének összegét a főpolgármester, a polgármester, a vármegyei közgyűlés elnöke illetménye 70–90%-a közötti összegben a képviselő-testület állapítja meg.
 >
 > (1a)⁽¹³⁴⁾ A 10 000 fő vagy az alatti lakosságszámú település alpolgármestere illetményének összegét a képviselő-testület állapítja meg úgy, hogy az nem haladhatja meg a polgármester illetménye 90%-át.
 >
@@ -890,7 +890,7 @@ A szakasz a főpolgármester-helyettes, a főállású alpolgármester és a vá
 
 **A rendelkezés szövege:**
 
-> A jegyző vezeti a polgármesteri hivatalt vagy a közös önkormányzati hivatalt.
+> (1) A jegyző vezeti a polgármesteri hivatalt vagy a közös önkormányzati hivatalt.
 >
 > (2) A jegyzőt az aljegyző helyettesíti, ellátja a jegyző által meghatározott feladatokat.
 >
@@ -932,7 +932,7 @@ A szakasz a jegyző alapvető funkcióját és feladatkörét, valamint az aljeg
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁴¹⁾ A polgármester – pályázat alapján határozatlan időre – nevezi ki a jegyzőt. A tízezer főnél kevesebb lakosú települések önkormányzatánál és a tízezer főnél kevesebb együttes lakosságszámú települések közös önkormányzati hivatalánál a polgármester – a jegyzőre vonatkozó szabályok szerint, a jegyző javaslatára – kinevezheti, más önkormányzatnál, közös önkormányzati hivatalnál kinevezi az aljegyzőt. A jegyzői és az aljegyzői kinevezés vezetői munkakörnek minősül, a jegyzőre, aljegyzőre alkalmazni kell a közszolgálati tisztviselőkről szóló törvény vonatkozó rendelkezéseit. Megyei jogú városban több aljegyző is kinevezhető.
+> (1)⁽¹⁴¹⁾ A polgármester – pályázat alapján határozatlan időre – nevezi ki a jegyzőt. A tízezer főnél kevesebb lakosú települések önkormányzatánál és a tízezer főnél kevesebb együttes lakosságszámú települések közös önkormányzati hivatalánál a polgármester – a jegyzőre vonatkozó szabályok szerint, a jegyző javaslatára – kinevezheti, más önkormányzatnál, közös önkormányzati hivatalnál kinevezi az aljegyzőt. A jegyzői és az aljegyzői kinevezés vezetői munkakörnek minősül, a jegyzőre, aljegyzőre alkalmazni kell a közszolgálati tisztviselőkről szóló törvény vonatkozó rendelkezéseit. Megyei jogú városban több aljegyző is kinevezhető.
 >
 > (2)⁽¹⁴²⁾ Amennyiben hat hónapon belül a polgármester nem nevez ki, illetve közös önkormányzati hivatal esetében az érintett polgármesterek nem neveznek ki jegyzőt, a kormányhivatal vezetője ideiglenes hatállyal a jegyzői feladatok ellátására a pályázati kiírásnak megfelelő jelöltet, ennek hiányában a képesítési és alkalmazási feltételeknek megfelelő hivatali köztisztviselőt vagy más jegyzőt nevez ki. A jegyzői feladatok ellátására szóló kinevezés az új jegyző kinevezéséig tart.
 >
@@ -972,7 +972,7 @@ A szakasz a közös önkormányzati hivatal jegyzőjére vonatkozó eltérő sza
 
 **A rendelkezés szövege:**
 
-> A helyi önkormányzat képviselő-testülete az önkormányzat működésével, valamint a polgármester vagy a jegyző feladat- és hatáskörébe tartozó ügyek döntésre való előkészítésével és végrehajtásával kapcsolatos feladatok ellátására polgármesteri hivatalt vagy közös önkormányzati hivatalt hoz létre. A hivatal közreműködik az önkormányzatok egymás közötti, valamint az állami szervekkel történő együttműködésének összehangolásában.
+> (1) A helyi önkormányzat képviselő-testülete az önkormányzat működésével, valamint a polgármester vagy a jegyző feladat- és hatáskörébe tartozó ügyek döntésre való előkészítésével és végrehajtásával kapcsolatos feladatok ellátására polgármesteri hivatalt vagy közös önkormányzati hivatalt hoz létre. A hivatal közreműködik az önkormányzatok egymás közötti, valamint az állami szervekkel történő együttműködésének összehangolásában.
 >
 > (2) A polgármesteri hivatal, a közös önkormányzati hivatal hivatalos elnevezését a képviselő-testület a szervezeti és működési szabályzatában feltünteti.
 >
@@ -1012,7 +1012,7 @@ A szakasz a helyi önkormányzati hivatal (polgármesteri hivatal, közös önko
 
 **A rendelkezés szövege:**
 
-> Közös önkormányzati hivatalt hoznak létre azok a járáson belüli községi önkormányzatok, amelyek közigazgatási területét legfeljebb egy település közigazgatási területe választja el egymástól, és a községek lakosságszáma nem haladja meg a kétezer főt. A kétezer fő lakosságszámot meghaladó település is tartozhat közös önkormányzati hivatalhoz.
+> (1) Közös önkormányzati hivatalt hoznak létre azok a járáson belüli községi önkormányzatok, amelyek közigazgatási területét legfeljebb egy település közigazgatási területe választja el egymástól, és a községek lakosságszáma nem haladja meg a kétezer főt. A kétezer fő lakosságszámot meghaladó település is tartozhat közös önkormányzati hivatalhoz.
 >
 > (2) A közös önkormányzati hivatalhoz tartozó települések összlakosságszáma legalább kétezer fő, vagy a közös hivatalhoz tartozó települések száma legalább hét.
 >

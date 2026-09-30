@@ -4,7 +4,7 @@
 
 **A rendelkezés szövege:**
 
-> A közös önkormányzati hivatal jegyzője vagy aljegyzője vagy megbízottja köteles a képviselő-testület ülésén részt venni és ott a szükséges tájékoztatást megadni.
+> (1) A közös önkormányzati hivatal jegyzője vagy aljegyzője vagy megbízottja köteles a képviselő-testület ülésén részt venni és ott a szükséges tájékoztatást megadni.
 >
 > (2) A közös önkormányzati hivatal jegyzője, aljegyzője vagy megbízottja az érintett képviselő-testületek megállapodása alapján köteles biztosítani az egyes településeken történő ügyfélfogadást.
 
@@ -30,7 +30,7 @@ A szakasz nyitja meg a IV. Fejezetet, és rögzíti a helyi önkormányzati tár
 
 **A rendelkezés szövege:**
 
-> A társulást a helyi önkormányzatok képviselő-testületei írásbeli megállapodással hozzák létre. A megállapodást a polgármester írja alá.
+> (1) A társulást a helyi önkormányzatok képviselő-testületei írásbeli megállapodással hozzák létre. A megállapodást a polgármester írja alá.
 >
 > (2) A társulásban részt vevő képviselő-testületek mindegyikének minősített többséggel hozott döntése szükséges a társulási megállapodás jóváhagyásához, módosításához vagy a társulás megszüntetéséhez.
 
@@ -42,7 +42,7 @@ A szakasz a társulás létrehozásának formai és döntéshozatali feltételei
 
 **A rendelkezés szövege:**
 
-> A társuláshoz csatlakozni naptári év első, abból kiválni naptári év utolsó napjával lehet, ha törvény vagy a társulási megállapodás másként nem rendelkezik.
+> (1) A társuláshoz csatlakozni naptári év első, abból kiválni naptári év utolsó napjával lehet, ha törvény vagy a társulási megállapodás másként nem rendelkezik.
 >
 > (2) A társuláshoz való csatlakozásról és a kiválásról, ha törvény eltérően nem rendelkezik, legalább hat hónappal korábban, minősített többséggel kell dönteni. Erről a társulási tanácsot értesíteni kell.
 >
@@ -56,7 +56,7 @@ A szakasz a társuláshoz való csatlakozás és az abból történő kiválás 
 
 **A rendelkezés szövege:**
 
-> A társulás a feladatkörébe tartozó közszolgáltatások ellátására – jogszabályban meghatározottak szerint – költségvetési szervet, gazdálkodó szervezetet, nonprofit szervezetet és egyéb szervezetet alapíthat, kinevezi vezetőiket. A társulás olyan vállalkozásban vehet részt, amelyben felelőssége nem haladja meg vagyoni hozzájárulásának mértékét.
+> (1) A társulás a feladatkörébe tartozó közszolgáltatások ellátására – jogszabályban meghatározottak szerint – költségvetési szervet, gazdálkodó szervezetet, nonprofit szervezetet és egyéb szervezetet alapíthat, kinevezi vezetőiket. A társulás olyan vállalkozásban vehet részt, amelyben felelőssége nem haladja meg vagyoni hozzájárulásának mértékét.
 >
 > (2) A társulás működési költségeihez – a társulási megállapodás eltérő rendelkezése hiányában – a társulás tagjai az általuk képviselt települések lakosságszámának arányában hozzájárulnak.
 >
@@ -156,7 +156,7 @@ A szakasz a társulási megállapodás kötelező tartalmi elemeit sorolja fel t
 
 **A rendelkezés szövege:**
 
-> Az önkormányzati társulás döntéshozó szerve a társulási tanács.
+> (1) Az önkormányzati társulás döntéshozó szerve a társulási tanács.
 >
 > (2) A társulási tanácsot a társult önkormányzatok képviselő-testületei által delegált tagok alkotják, akik a megállapodásban meghatározott számú szavazattal rendelkeznek.
 >
@@ -180,7 +180,7 @@ A szakasz a társulási tanács mint döntéshozó szerv összetételét és dö
 
 **A rendelkezés szövege:**
 
-> A társulási tanács tagjai közül elnököt választ, alelnököt választhat. Együttes akadályoztatásuk esetén a tanács ülését a korelnök hívja össze és vezeti.
+> (1) A társulási tanács tagjai közül elnököt választ, alelnököt választhat. Együttes akadályoztatásuk esetén a tanács ülését a korelnök hívja össze és vezeti.
 >
 > (2) A társulási tanács döntéseinek előkészítése, végrehajtásuk szervezése érdekében bizottságokat alakíthat.
 >
@@ -202,7 +202,7 @@ A szakasz a társulási tanács belső szervezetét és munkaszervezeti hátter�
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁶⁵⁾ Az állami területi tagozódást érintő területszervezési kezdeményezésről az Országgyűlés, a köztársasági elnök–az országgyűlési képviselői és az önkormányzati általános választás éve és az egyéni választókerület határának módosítását érintő területszervezési kezdeményezés esetén az országgyűlési képviselői általános választás évét megelőző év kivételével–évente egy alkalommal dönt.
+> (1)⁽¹⁶⁵⁾ Az állami területi tagozódást érintő területszervezési kezdeményezésről az Országgyűlés, a köztársasági elnök–az országgyűlési képviselői és az önkormányzati általános választás éve és az egyéni választókerület határának módosítását érintő területszervezési kezdeményezés esetén az országgyűlési képviselői általános választás évét megelőző év kivételével–évente egy alkalommal dönt.
 >
 > (2) A Kormány, valamint a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter (e fejezet alkalmazásában a továbbiakban: miniszter) a kezdeményezést június 30-áig nyújtja be az Országgyűlésnek, és javaslatot tesz a köztársasági elnöknek. Az Országgyűlés és a köztársasági elnök a területszervezési kezdeményezésről – a várossá nyilvánítás kivételével – december 31-ig dönt.
 >
@@ -222,7 +222,7 @@ A szakasz nyitja meg az V. Fejezetet, és a területszervezési eljárások köz
 
 **A rendelkezés szövege:**
 
-> A község, a város nevét úgy kell megállapítani, hogy ne lehessen összetéveszteni az országban lévő más helység nevével.
+> (1) A község, a város nevét úgy kell megállapítani, hogy ne lehessen összetéveszteni az országban lévő más helység nevével.
 >
 > (2) A területváltozás költségeit az a község, város viseli, amelynek javára történt a területátcsatolás.
 
@@ -236,7 +236,7 @@ A szakasz két, egymástól független elvi jelentőségű szabályt tartalmaz. 
 
 **A rendelkezés szövege:**
 
-> A választópolgárok kezdeményezésére, helyi népszavazás alapján új község alakítható az olyan – földrajzilag és építészetileg – elkülönült, lakott településrészből, amely választópolgárainak közössége képes a helyi önkormányzás jogának önálló gyakorlására, a községi önkormányzat számára meghatározott feladatok önállóan vagy társulás útján történő teljesítésére a szolgáltatások színvonalának csökkenése nélkül úgy, hogy ezeknek a feltételeknek az a település is megfeleljen, amelyből az új község megalakult. A helyi népszavazást a település teljes közigazgatási területére kell kitűzni.
+> (1) A választópolgárok kezdeményezésére, helyi népszavazás alapján új község alakítható az olyan – földrajzilag és építészetileg – elkülönült, lakott településrészből, amely választópolgárainak közössége képes a helyi önkormányzás jogának önálló gyakorlására, a községi önkormányzat számára meghatározott feladatok önállóan vagy társulás útján történő teljesítésére a szolgáltatások színvonalának csökkenése nélkül úgy, hogy ezeknek a feltételeknek az a település is megfeleljen, amelyből az új község megalakult. A helyi népszavazást a település teljes közigazgatási területére kell kitűzni.
 >
 > (2) Az új község alakításának további feltétele, hogy az elkülönült településrész lakosságszáma a kezdeményezést megelőző tíz évben folyamatosan növekedjen, és infrastrukturális ellátottsága meghaladja az országos átlagot, valamint a községi önkormányzat számára meghatározott feladatokat az országos átlagot meg nem haladó költségráfordítással látja el.
 >
@@ -288,7 +288,7 @@ A szakasz az önálló község alakításának – a Mötv. területszervezési
 
 **A rendelkezés szövege:**
 
-> Új község alakítását településegyesítés megszüntetés jogcímén akkor lehet kezdeményezni, ha a településrész egyesítése 1950. január 1-jén vagy azt követően lépett hatályba.
+> (1) Új község alakítását településegyesítés megszüntetés jogcímén akkor lehet kezdeményezni, ha a településrész egyesítése 1950. január 1-jén vagy azt követően lépett hatályba.
 >
 > (2) Településegyesítés megszüntetésének a kezdeményezése a 98. §-ban foglalt feltételekkel és eljárással történhet.
 
@@ -302,7 +302,7 @@ A szakasz az új község alakításának egy speciális jogcímét, a települ�
 
 **A rendelkezés szövege:**
 
-> Helyi népszavazás alapján az érintett képviselő-testületek határozatukkal kezdeményezik az egybeépült községek, valamint város és község egyesítését, egyidejűleg javaslatot tesznek az új település nevére.
+> (1) Helyi népszavazás alapján az érintett képviselő-testületek határozatukkal kezdeményezik az egybeépült községek, valamint város és község egyesítését, egyidejűleg javaslatot tesznek az új település nevére.
 >
 > (2) Az egyesítéstől a községek jogai és kötelezettségei az új községet, várost illetik és terhelik.
 >
@@ -330,7 +330,7 @@ A szakasz a területrész átadásának legáltalánosabb, keretjellegű szabál
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁷³⁾ Az érintett képviselő-testületek a területrész átadását előkészítő bizottság javaslata alapján közigazgatási szerződésben előzetesen megállapodhatnak az átadandó területrész területéről és határairól, a vagyon megosztásáról.
+> (1)⁽¹⁷³⁾ Az érintett képviselő-testületek a területrész átadását előkészítő bizottság javaslata alapján közigazgatási szerződésben előzetesen megállapodhatnak az átadandó területrész területéről és határairól, a vagyon megosztásáról.
 >
 > (2) A lakott területrész átadásának kezdeményezése esetén az érintett képviselő-testületek együttes ülésen legalább háromtagú, területrész átadását előkészítő bizottságot választanak települési képviselőkből, valamint más választópolgárokból. Az előkészítő bizottság tagjainak több mint felét a lakott területrészen lakó települési képviselők vagy választópolgárok közül kell megválasztani. A bizottság elnökének és tagjainak megválasztásához a képviselő-testületi tagok több mint felének igen szavazata szükséges.
 >
@@ -356,7 +356,7 @@ A szakasz a területrész átadásának részletes eljárási szabályait tartal
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁷⁶⁾ A települési képviselő-testület minősített többségű határozattal kezdeményezheti, hogy az Országgyűlés a települést a területével határos másik vármegye területéhez csatolja át. A kezdeményezéssel kapcsolatban helyi népszavazást kell elrendelni.
+> (1)⁽¹⁷⁶⁾ A települési képviselő-testület minősített többségű határozattal kezdeményezheti, hogy az Országgyűlés a települést a területével határos másik vármegye területéhez csatolja át. A kezdeményezéssel kapcsolatban helyi népszavazást kell elrendelni.
 >
 > (2)⁽¹⁷⁷⁾ A település a másik vármegyéhez általában a teljes közigazgatási területével csatolható át. Ettől eltérő javaslatot akkor lehet tenni, ha az új vármegyehatár eltérő kialakítását természetes vagy jelentős műszaki létesítményt jelentő mesterséges határvonal (folyó, közút, vasúti pálya stb.) indokolja.
 >
@@ -380,7 +380,7 @@ A szakasz a település vármegyék közötti átcsatolásának szabályait tart
 
 **A rendelkezés szövege:**
 
-> Városi cím adható annak a községi önkormányzatnak, amely térségi szerepet tölt be, és fejlettsége eléri az átlagos városi szintet.
+> (1) Városi cím adható annak a községi önkormányzatnak, amely térségi szerepet tölt be, és fejlettsége eléri az átlagos városi szintet.
 >
 > (2) Ha a miniszter a várossá nyilvánítási kezdeményezést nem támogatja, erről tájékoztatja az érintett önkormányzat képviselő-testületét azzal, hogy milyen fejlesztések szükségesek az előterjesztéshez. Ha a képviselő-testület fenntartja a kezdeményezését, az eredmények elérését követő év január 31-ig – az önkormányzati választás évének kivételével – a korábbi felterjesztésének kiegészítésével ismételheti meg a kezdeményezését.
 
@@ -394,7 +394,7 @@ A szakasz a várossá nyilvánítás anyagi jogi és eljárási szabályait rög
 
 **A rendelkezés szövege:**
 
-> Fővárosi kerület létesítését, kerület megszüntetését (a továbbiakban: kerületi tagozódás megváltoztatása) bármelyik, területileg közvetlenül érintett kerületi önkormányzat képviselő-testülete kezdeményezheti az Országgyűlésnél.
+> (1) Fővárosi kerület létesítését, kerület megszüntetését (a továbbiakban: kerületi tagozódás megváltoztatása) bármelyik, területileg közvetlenül érintett kerületi önkormányzat képviselő-testülete kezdeményezheti az Országgyűlésnél.
 >
 > (2) A kerületi tagozódás megváltoztatásának kezdeményezése esetén az érintett kerületi önkormányzat képviselő-testülete a kerületi tagozódás megváltoztatása kérdésében helyi népszavazást köteles elrendelni.
 >
@@ -424,7 +424,7 @@ A szakasz a fővárosi kerületi tagozódás megváltoztatásának – kerület 
 
 **A rendelkezés szövege:**
 
-> E törvény alkalmazásában saját bevétel:
+> (1) E törvény alkalmazásában saját bevétel:
 >
 > a) a helyi adók;
 >
@@ -458,7 +458,7 @@ A szakasz az önkormányzati tulajdon jogállásának generálklauzuláját tart
 
 **A rendelkezés szövege:**
 
-> A helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon birtoklása, használata, hasznai szedésének joga, fenntartása, üzemeltetése, létesítése, fejlesztése, valamint felújítása csak e törvényben és a nemzeti vagyonról szóló törvényben szabályozott módon engedhető át másnak.
+> (1) A helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon birtoklása, használata, hasznai szedésének joga, fenntartása, üzemeltetése, létesítése, fejlesztése, valamint felújítása csak e törvényben és a nemzeti vagyonról szóló törvényben szabályozott módon engedhető át másnak.
 >
 > (2)⁽¹⁸²⁾ A helyi önkormányzat tulajdonában álló nemzeti vagyon tulajdonjoga ingyenesen átruházható:
 >
@@ -490,7 +490,7 @@ A szakasz a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagy
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁸⁶⁾ A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 13. § (1) bekezdése szerinti versenyeztetés mellőzhető:
+> (1)⁽¹⁸⁶⁾ A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 13. § (1) bekezdése szerinti versenyeztetés mellőzhető:
 >
 > a) a helyi önkormányzat tulajdonában álló nemzeti vagyon gazdasági társaság részére, nem pénzbeli vagyoni hozzájárulásként történő rendelkezésre bocsátásakor,
 >
@@ -542,7 +542,7 @@ A szakasz a 108. §-ban meghatározott általános szabályoktól eltérően leh
 
 **A rendelkezés szövege:**
 
-> ⁽¹⁹⁰⁾ A képviselő-testület a helyi önkormányzat tulajdonában lévő nemzeti vagyonra a nemzeti vagyonról szóló törvény rendelkezései szerint az önkormányzati közfeladat átadásához kapcsolódva vagyonkezelői jogot létesíthet. Vagyonkezelői jog önkormányzati lakóépületre és vegyes rendeltetésű épületre, társasházban lévő önkormányzati lakásra és nem lakás céljára szolgáló helyiségre kizárólag a helyi önkormányzat 100%-os tulajdonában álló gazdálkodó szervezettel, vagy annak 100%-os tulajdonában álló gazdálkodó szervezettel létesíthető, és kizárólag általuk gyakorolható. A vagyonkezelési szerződésnek a gazdálkodó szervezet tulajdonosi szerkezetében történő tulajdonos változás miatti megszűnésének esetére a nemzeti vagyonról szóló törvényben meghatározottak az irányadók.
+> (1)⁽¹⁹⁰⁾ A képviselő-testület a helyi önkormányzat tulajdonában lévő nemzeti vagyonra a nemzeti vagyonról szóló törvény rendelkezései szerint az önkormányzati közfeladat átadásához kapcsolódva vagyonkezelői jogot létesíthet. Vagyonkezelői jog önkormányzati lakóépületre és vegyes rendeltetésű épületre, társasházban lévő önkormányzati lakásra és nem lakás céljára szolgáló helyiségre kizárólag a helyi önkormányzat 100%-os tulajdonában álló gazdálkodó szervezettel, vagy annak 100%-os tulajdonában álló gazdálkodó szervezettel létesíthető, és kizárólag általuk gyakorolható. A vagyonkezelési szerződésnek a gazdálkodó szervezet tulajdonosi szerkezetében történő tulajdonos változás miatti megszűnésének esetére a nemzeti vagyonról szóló törvényben meghatározottak az irányadók.
 >
 > (2)⁽¹⁹¹⁾ A képviselő-testület kizárólag a nemzeti vagyonról szóló törvényben meghatározott személyekkel köthet vagyonkezelési szerződést.
 >
@@ -594,7 +594,7 @@ A szakasz a helyi önkormányzati vagyonkezelői jog létesítésének és gyako
 
 **A rendelkezés szövege:**
 
-> A helyi önkormányzat tulajdonába tartozó vagyonelemekről kormányrendeletben meghatározott módon nyilvántartást kell vezetni. Az önkormányzati vagyonnyilvántartás (vagyonkataszter) folyamatos vezetéséért, az adatok hitelességéért a jegyző felelős.
+> (1) A helyi önkormányzat tulajdonába tartozó vagyonelemekről kormányrendeletben meghatározott módon nyilvántartást kell vezetni. Az önkormányzati vagyonnyilvántartás (vagyonkataszter) folyamatos vezetéséért, az adatok hitelességéért a jegyző felelős.
 >
 > (2) Az önkormányzati törzsvagyont a többi vagyontárgytól elkülönítve kell nyilvántartani. Az éves zárszámadáshoz a vagyonállapotról vagyonkimutatást kell készíteni.
 >
@@ -622,7 +622,7 @@ A szakasz egy önálló, átmeneti jellegű jogérvényesítési szabályt tarta
 
 **A rendelkezés szövege:**
 
-> A helyi önkormányzat költségvetése az államháztartás része. Az önkormányzati alrendszer költségvetése a központi költségvetéstől elkülönül, ahhoz központi költségvetési támogatásokkal kapcsolódik.
+> (1) A helyi önkormányzat költségvetése az államháztartás része. Az önkormányzati alrendszer költségvetése a központi költségvetéstől elkülönül, ahhoz központi költségvetési támogatásokkal kapcsolódik.
 >
 > (2) A helyi önkormányzat gazdálkodásának alapja az éves költségvetése. Ebből finanszírozza és látja el törvényben meghatározott kötelező, valamint a kötelező feladatai ellátását nem veszélyeztető önként vállalt feladatait.
 >
@@ -734,7 +734,7 @@ A szakasz a legsúlyosabb önkormányzati mulasztásokhoz – az elfogadott köl
 
 **A rendelkezés szövege:**
 
-> A helyi önkormányzat feladataihoz igazodóan választja meg a gazdálkodás formáit, és pénzügyi előírások keretei között önállóan alakítja ki az érdekeltségi szabályokat. A helyi önkormányzat a feladatai ellátásának feltételeit saját bevételeiből, más gazdálkodó szervektől átvett bevételekből, valamint központi költségvetési támogatásból teremti meg.
+> (1) A helyi önkormányzat feladataihoz igazodóan választja meg a gazdálkodás formáit, és pénzügyi előírások keretei között önállóan alakítja ki az érdekeltségi szabályokat. A helyi önkormányzat a feladatai ellátásának feltételeit saját bevételeiből, más gazdálkodó szervektől átvett bevételekből, valamint központi költségvetési támogatásból teremti meg.
 >
 > (1a)⁽²¹²⁾ A helyi önkormányzatok helyi közösségi közlekedési feladatellátásának forrása a fővárosi önkormányzat esetében elsőként a külön törvény alapján fővárosi önkormányzatot osztottan megillető adóbevétel, más önkormányzatnál pedig a helyi iparűzési adóból származó bevétel. A helyi iparűzési adóbevételből a közösségi közlekedési feladat ellátási összegén felüli bevétel különösen a települési önkormányzat képviselő-testületének hatáskörébe tartozó szociális ellátások finanszírozására használható fel.
 >
@@ -766,7 +766,7 @@ A szakasz az önkormányzati gazdálkodás átláthatóságát szolgáló közz�
 
 **A rendelkezés szövege:**
 
-> A helyi önkormányzat a pénzügyi, ügyviteli, ügyintézési és egyéb alapvető feladatok egységes szabályok szerinti elvégzését, átláthatóságát biztosító – az állami informatikai rendszerrel összekapcsolható – informatikai rendszert működtet, amely a folyamatos pénzügyi állami ellenőrzés eszközeként is szolgál.
+> (1) A helyi önkormányzat a pénzügyi, ügyviteli, ügyintézési és egyéb alapvető feladatok egységes szabályok szerinti elvégzését, átláthatóságát biztosító – az állami informatikai rendszerrel összekapcsolható – informatikai rendszert működtet, amely a folyamatos pénzügyi állami ellenőrzés eszközeként is szolgál.
 >
 > (2) A helyi önkormányzat – egyes kötelező feladatainak informatikai támogatása céljából – csatlakozik a helyi önkormányzatok feladatellátását támogató, számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást nyújtó, az állam által biztosított, elektronikus információs rendszerhez (a továbbiakban: önkormányzati ASP rendszer). A csatlakozás módját, végső határidejét és az önkormányzati ASP rendszer szakrendszereit kormányrendelet határozza meg.
 >
@@ -784,7 +784,7 @@ A szakasz az önkormányzati gazdálkodás informatikai hátterét és az állam
 
 **A rendelkezés szövege:**
 
-> A helyi önkormányzat gazdálkodásának biztonságáért a képviselő-testület, a gazdálkodás szabályszerűségéért a polgármester felelős.
+> (1) A helyi önkormányzat gazdálkodásának biztonságáért a képviselő-testület, a gazdálkodás szabályszerűségéért a polgármester felelős.
 >
 > (2)⁽²¹⁵⁾
 
@@ -798,7 +798,7 @@ A szakasz az önkormányzati gazdálkodás felelősségi megosztását rögzíti
 
 **A rendelkezés szövege:**
 
-> A képviselő-testület hosszú távú fejlesztési elképzeléseit gazdasági programban, fejlesztési tervben rögzíti, melynek elkészítéséért a helyi önkormányzat felelős.
+> (1) A képviselő-testület hosszú távú fejlesztési elképzeléseit gazdasági programban, fejlesztési tervben rögzíti, melynek elkészítéséért a helyi önkormányzat felelős.
 >
 > (2) A gazdasági program, fejlesztési terv a képviselő-testület megbízatásának időtartamára vagy azt meghaladó időszakra szól.
 >
@@ -820,7 +820,7 @@ A szakasz a képviselő-testület hosszú távú fejlesztési tervezési kötele
 
 **A rendelkezés szövege:**
 
-> A feladatfinanszírozási rendszer keretében az Országgyűlés a központi költségvetésről szóló törvényben meghatározott módon a helyi önkormányzatok
+> (1) A feladatfinanszírozási rendszer keretében az Országgyűlés a központi költségvetésről szóló törvényben meghatározott módon a helyi önkormányzatok
 >
 > a) kötelezően ellátandó, törvényben előírt egyes feladatainak – felhasználási kötöttséggel – a feladatot meghatározó jogszabályban megjelölt közszolgáltatási szintnek megfelelő ellátását feladatalapú támogatással biztosítja, vagy azok ellátásához a feladat, a helyi szükségletek alapján jellemző mutatószámok, illetve a lakosságszám alapján támogatást biztosít,
 >
@@ -848,7 +848,7 @@ A szakasz nyitja meg a helyi önkormányzatok feladatfinanszírozási rendszeré
 
 **A rendelkezés szövege:**
 
-> A 117. § (1) bekezdés a) pontja szerinti támogatást a helyi önkormányzat éves szinten kizárólag az ellátandó feladatainak kiadásaira fordíthatja. Az ettől eltérő felhasználás esetén a helyi önkormányzat köteles a támogatás összegét – az államháztartásról szóló törvényben meghatározott kamatokkal terhelve – a központi költségvetésbe visszafizetni.
+> (1) A 117. § (1) bekezdés a) pontja szerinti támogatást a helyi önkormányzat éves szinten kizárólag az ellátandó feladatainak kiadásaira fordíthatja. Az ettől eltérő felhasználás esetén a helyi önkormányzat köteles a támogatás összegét – az államháztartásról szóló törvényben meghatározott kamatokkal terhelve – a központi költségvetésbe visszafizetni.
 >
 > (2) Kivételes esetben jogszabályban meghatározott módon a helyi önkormányzat működőképessége megőrzése érdekében kiegészítő támogatás adható.
 
@@ -864,7 +864,7 @@ A szakasz a 117. § (1) bekezdés a) pontja szerinti feladatalapú támogatás f
 
 **A rendelkezés szövege:**
 
-> ⁽²¹⁹⁾ A helyi önkormányzatnak nyújtott európai uniós és az ahhoz kapcsolódó költségvetési támogatások felhasználását az Európai Számvevőszék és az Európai Bizottság illetékes szervezetei, kormányzati ellenőrzési szerv, a fejezetek ellenőrzési szervezetei, a kincstár, az ellenőrzési hatóság, az európai uniós támogatások irányító hatóságai és a közreműködő szervezetek képviselői is ellenőrizhetik.
+> (1)⁽²¹⁹⁾ A helyi önkormányzatnak nyújtott európai uniós és az ahhoz kapcsolódó költségvetési támogatások felhasználását az Európai Számvevőszék és az Európai Bizottság illetékes szervezetei, kormányzati ellenőrzési szerv, a fejezetek ellenőrzési szervezetei, a kincstár, az ellenőrzési hatóság, az európai uniós támogatások irányító hatóságai és a közreműködő szervezetek képviselői is ellenőrizhetik.
 >
 > (2) A központi költségvetési, európai uniós vagy egyéb nemzetközi támogatásban részesülő önkormányzat vagy társulás köteles a támogatást nyújtó, a támogatás lebonyolításában részt vevő és a támogatást ellenőrző szervezetekkel együttműködni.
 >
@@ -886,7 +886,7 @@ A szakasz nyitja meg a helyi önkormányzatok belső kontrollrendszeréről szó
 
 **A rendelkezés szövege:**
 
-> A pénzügyi bizottság a helyi önkormányzatnál és intézményeinél
+> (1) A pénzügyi bizottság a helyi önkormányzatnál és intézményeinél
 >
 > a)⁽²²⁰⁾ véleményezi az éves költségvetési javaslatot és a végrehajtásáról szóló éves beszámoló tervezeteit;
 >
@@ -930,7 +930,7 @@ A szakasz az adósságrendezési eljárás ideje alatti gazdálkodás alapját r
 
 **A rendelkezés szövege:**
 
-> Az adósságrendezésbe nem vonható be a helyi önkormányzat használatába, vagyonkezelésébe adott, nem az önkormányzat tulajdonát képező vagyon, továbbá hazai vagy uniós forrásból nyújtott fejlesztési támogatásból származó bevételek.
+> (1) Az adósságrendezésbe nem vonható be a helyi önkormányzat használatába, vagyonkezelésébe adott, nem az önkormányzat tulajdonát képező vagyon, továbbá hazai vagy uniós forrásból nyújtott fejlesztési támogatásból származó bevételek.
 >
 > (2) Az adósságrendezés megindításának időpontjától kezdődően az eljárás lezárásáig terjedő időtartamban, a miniszter egyedi döntése alapján, egyedi beruházási kiadások teljesíthetők, különös tekintettel európai uniós támogatással megvalósuló beruházásokra és derogációs kötelezettség teljesítésére. A reorganizációs tervben a miniszter egyedi döntése alapján engedélyezett beruházások szerepelhetnek.
 
